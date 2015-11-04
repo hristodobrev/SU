@@ -1,0 +1,5 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\10. Pythagorean Numbers\bin\Debug\_10.Pythagorean_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\10. Pythagorean Numbers\bin\Debug\_10.Pythagorean_Numbers.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\10. Pythagorean Numbers\obj\x86\Debug\_10.Pythagorean_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\10. Pythagorean Numbers\obj\x86\Debug\_10.Pythagorean_Numbers.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\10. Pythagorean Numbers\obj\x86\Debug\10. Pythagorean Numbers.csprojResolveAssemblyReference.cache

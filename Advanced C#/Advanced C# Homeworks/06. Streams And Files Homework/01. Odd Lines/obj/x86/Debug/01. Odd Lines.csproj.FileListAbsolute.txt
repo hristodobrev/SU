@@ -1,0 +1,6 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\01. Odd Lines\bin\Debug\_01.Odd_Lines.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\01. Odd Lines\obj\x86\Debug\_01.Odd_Lines.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\01. Odd Lines\obj\x86\Debug\_01.Odd_Lines.pdb
+D:\Others\Advanced C# Homeworks\06. Streams And Files\01. Odd Lines\obj\x86\Debug\_01.Odd_Lines.exe
+D:\Others\Advanced C# Homeworks\06. Streams And Files\01. Odd Lines\obj\x86\Debug\_01.Odd_Lines.pdb

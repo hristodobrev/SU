@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\07. Phonebook\bin\Debug\_07.Phonebook.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\07. Phonebook\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\07. Phonebook\obj\x86\Debug\_07.Phonebook.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\07. Phonebook\obj\x86\Debug\_07.Phonebook.pdb

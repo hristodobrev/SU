@@ -1,0 +1,7 @@
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\bin\Debug\_02.Platform_Game.exe
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\bin\Debug\_02.Platform_Game.pdb
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.Form1.resources
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.Properties.Resources.resources
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\obj\x86\Debug\02. Platform Game.csproj.GenerateResource.Cache
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.exe
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.pdb

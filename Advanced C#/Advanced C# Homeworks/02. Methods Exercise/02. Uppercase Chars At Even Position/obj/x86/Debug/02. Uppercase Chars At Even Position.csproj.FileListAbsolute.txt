@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Methods Exercise\02. Methods Exercise\02. Uppercase Chars At Even Position\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Methods Exercise\02. Methods Exercise\02. Uppercase Chars At Even Position\bin\Debug\_02.Uppercase_Chars_At_Even_Position.exe
+D:\Others\Advanced C# Homeworks\02. Methods Exercise\02. Methods Exercise\02. Uppercase Chars At Even Position\bin\Debug\_02.Uppercase_Chars_At_Even_Position.pdb
+D:\Others\Advanced C# Homeworks\02. Methods Exercise\02. Methods Exercise\02. Uppercase Chars At Even Position\obj\x86\Debug\_02.Uppercase_Chars_At_Even_Position.exe
+D:\Others\Advanced C# Homeworks\02. Methods Exercise\02. Methods Exercise\02. Uppercase Chars At Even Position\obj\x86\Debug\_02.Uppercase_Chars_At_Even_Position.pdb

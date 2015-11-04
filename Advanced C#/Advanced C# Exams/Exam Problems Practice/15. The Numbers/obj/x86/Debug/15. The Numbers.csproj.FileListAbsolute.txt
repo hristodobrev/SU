@@ -1,0 +1,9 @@
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\bin\Debug\_15.The_Numbers.exe
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\bin\Debug\_15.The_Numbers.pdb
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\obj\x86\Debug\_15.The_Numbers.exe
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\obj\x86\Debug\_15.The_Numbers.pdb
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\obj\x86\Debug\_15.The_Numbers.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\obj\x86\Debug\_15.The_Numbers.pdb
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\bin\Debug\_15.The_Numbers.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\bin\Debug\_15.The_Numbers.pdb
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\15. The Numbers\obj\x86\Debug\15. The Numbers.csprojResolveAssemblyReference.cache

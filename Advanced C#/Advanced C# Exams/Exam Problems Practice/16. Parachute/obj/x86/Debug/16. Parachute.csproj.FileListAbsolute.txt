@@ -1,0 +1,4 @@
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\16. Parachute\bin\Debug\_16.Parachute.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\16. Parachute\bin\Debug\_16.Parachute.pdb
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\16. Parachute\obj\x86\Debug\_16.Parachute.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\16. Parachute\obj\x86\Debug\_16.Parachute.pdb

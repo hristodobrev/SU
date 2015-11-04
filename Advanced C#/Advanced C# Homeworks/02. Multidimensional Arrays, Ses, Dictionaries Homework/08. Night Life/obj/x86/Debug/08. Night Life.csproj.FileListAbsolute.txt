@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\08. Night Life\bin\Debug\_08.Night_Life.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\08. Night Life\bin\Debug\_08.Night_Life.pdb
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\08. Night Life\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\08. Night Life\obj\x86\Debug\_08.Night_Life.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\08. Night Life\obj\x86\Debug\_08.Night_Life.pdb

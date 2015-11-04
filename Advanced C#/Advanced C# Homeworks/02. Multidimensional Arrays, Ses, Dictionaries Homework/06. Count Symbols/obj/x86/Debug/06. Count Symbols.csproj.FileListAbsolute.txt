@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\06. Count Symbols\bin\Debug\_06.Count_Symbols.pdb
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\06. Count Symbols\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\06. Count Symbols\obj\x86\Debug\_06.Count_Symbols.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\06. Count Symbols\obj\x86\Debug\_06.Count_Symbols.pdb

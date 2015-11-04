@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\10. Plus Remove\bin\Debug\_10.Plus_Remove.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\10. Plus Remove\bin\Debug\_10.Plus_Remove.pdb
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\10. Plus Remove\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\10. Plus Remove\obj\x86\Debug\_10.Plus_Remove.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\10. Plus Remove\obj\x86\Debug\_10.Plus_Remove.pdb

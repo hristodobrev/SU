@@ -1,0 +1,8 @@
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\08. Lego Blocks\bin\Debug\_08.Lego_Blocks.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\08. Lego Blocks\bin\Debug\_08.Lego_Blocks.pdb
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\08. Lego Blocks\obj\x86\Debug\_08.Lego_Blocks.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\08. Lego Blocks\obj\x86\Debug\_08.Lego_Blocks.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\08. Lego Blocks\obj\x86\Debug\_08.Lego_Blocks.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\08. Lego Blocks\obj\x86\Debug\_08.Lego_Blocks.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\08. Lego Blocks\bin\Debug\_08.Lego_Blocks.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\08. Lego Blocks\bin\Debug\_08.Lego_Blocks.pdb

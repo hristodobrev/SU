@@ -1,0 +1,4 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\04. Sequences Of Equal Numbers\bin\Debug\_04.Sequences_Of_Equal_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\04. Sequences Of Equal Numbers\bin\Debug\_04.Sequences_Of_Equal_Numbers.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\04. Sequences Of Equal Numbers\obj\x86\Debug\_04.Sequences_Of_Equal_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\04. Sequences Of Equal Numbers\obj\x86\Debug\_04.Sequences_Of_Equal_Numbers.pdb

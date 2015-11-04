@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Odd Lines", "01. Odd Lines\01. Odd Lines.csproj", "{A92686A3-2A2F-4420-8D03-73B107DB5077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{4E24A930-D0BB-4320-84AE-610C0264C723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{C76E28BD-9BDC-48CB-A9DA-14687E589742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Copy Binary File", "04. Copy Binary File\04. Copy Binary File.csproj", "{8AA451E1-FCA8-4E5A-9D5C-C6CE3EC16C31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Slicing File", "05. Slicing File\05. Slicing File.csproj", "{65CD84F8-369D-4E79-9531-1FFCD9228166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Zipping Sliced Files", "06. Zipping Sliced Files\06. Zipping Sliced Files.csproj", "{2FF04C01-8328-46C6-A128-4F090285D6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Directory Traversal", "07. Directory Traversal\07. Directory Traversal.csproj", "{D6AB7341-2800-4000-A563-17F3D78A80F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92686A3-2A2F-4420-8D03-73B107DB5077}.Debug|x86.ActiveCfg = Debug|x86
+		{A92686A3-2A2F-4420-8D03-73B107DB5077}.Debug|x86.Build.0 = Debug|x86
+		{A92686A3-2A2F-4420-8D03-73B107DB5077}.Release|x86.ActiveCfg = Release|x86
+		{A92686A3-2A2F-4420-8D03-73B107DB5077}.Release|x86.Build.0 = Release|x86
+		{4E24A930-D0BB-4320-84AE-610C0264C723}.Debug|x86.ActiveCfg = Debug|x86
+		{4E24A930-D0BB-4320-84AE-610C0264C723}.Debug|x86.Build.0 = Debug|x86
+		{4E24A930-D0BB-4320-84AE-610C0264C723}.Release|x86.ActiveCfg = Release|x86
+		{4E24A930-D0BB-4320-84AE-610C0264C723}.Release|x86.Build.0 = Release|x86
+		{C76E28BD-9BDC-48CB-A9DA-14687E589742}.Debug|x86.ActiveCfg = Debug|x86
+		{C76E28BD-9BDC-48CB-A9DA-14687E589742}.Debug|x86.Build.0 = Debug|x86
+		{C76E28BD-9BDC-48CB-A9DA-14687E589742}.Release|x86.ActiveCfg = Release|x86
+		{C76E28BD-9BDC-48CB-A9DA-14687E589742}.Release|x86.Build.0 = Release|x86
+		{8AA451E1-FCA8-4E5A-9D5C-C6CE3EC16C31}.Debug|x86.ActiveCfg = Debug|x86
+		{8AA451E1-FCA8-4E5A-9D5C-C6CE3EC16C31}.Debug|x86.Build.0 = Debug|x86
+		{8AA451E1-FCA8-4E5A-9D5C-C6CE3EC16C31}.Release|x86.ActiveCfg = Release|x86
+		{8AA451E1-FCA8-4E5A-9D5C-C6CE3EC16C31}.Release|x86.Build.0 = Release|x86
+		{65CD84F8-369D-4E79-9531-1FFCD9228166}.Debug|x86.ActiveCfg = Debug|x86
+		{65CD84F8-369D-4E79-9531-1FFCD9228166}.Debug|x86.Build.0 = Debug|x86
+		{65CD84F8-369D-4E79-9531-1FFCD9228166}.Release|x86.ActiveCfg = Release|x86
+		{65CD84F8-369D-4E79-9531-1FFCD9228166}.Release|x86.Build.0 = Release|x86
+		{2FF04C01-8328-46C6-A128-4F090285D6FD}.Debug|x86.ActiveCfg = Debug|x86
+		{2FF04C01-8328-46C6-A128-4F090285D6FD}.Debug|x86.Build.0 = Debug|x86
+		{2FF04C01-8328-46C6-A128-4F090285D6FD}.Release|x86.ActiveCfg = Release|x86
+		{2FF04C01-8328-46C6-A128-4F090285D6FD}.Release|x86.Build.0 = Release|x86
+		{D6AB7341-2800-4000-A563-17F3D78A80F2}.Debug|x86.ActiveCfg = Debug|x86
+		{D6AB7341-2800-4000-A563-17F3D78A80F2}.Debug|x86.Build.0 = Debug|x86
+		{D6AB7341-2800-4000-A563-17F3D78A80F2}.Release|x86.ActiveCfg = Release|x86
+		{D6AB7341-2800-4000-A563-17F3D78A80F2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\05. SortStudents\bin\Debug\_05.SortStudents.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\05. SortStudents\bin\Debug\_05.SortStudents.pdb
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\05. SortStudents\obj\x86\Debug\_05.SortStudents.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\05. SortStudents\obj\x86\Debug\_05.SortStudents.pdb

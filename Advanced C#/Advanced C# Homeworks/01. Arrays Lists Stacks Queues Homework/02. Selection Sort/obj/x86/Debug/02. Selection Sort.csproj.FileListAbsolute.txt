@@ -1,0 +1,4 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\02. Selection Sort\bin\Debug\_02.Selection_Sort.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\02. Selection Sort\bin\Debug\_02.Selection_Sort.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\02. Selection Sort\obj\x86\Debug\_02.Selection_Sort.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\02. Selection Sort\obj\x86\Debug\_02.Selection_Sort.pdb

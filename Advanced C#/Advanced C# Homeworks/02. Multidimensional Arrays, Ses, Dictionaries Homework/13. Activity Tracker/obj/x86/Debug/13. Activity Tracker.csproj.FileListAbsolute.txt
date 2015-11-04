@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.pdb
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\13. Activity Tracker\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\13. Activity Tracker\obj\x86\Debug\_13.Activity_Tracker.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\13. Activity Tracker\obj\x86\Debug\_13.Activity_Tracker.pdb

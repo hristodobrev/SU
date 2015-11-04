@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\02. Replace Tag\bin\Debug\_02.Replace_Tag.exe
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\02. Replace Tag\bin\Debug\_02.Replace_Tag.pdb
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\02. Replace Tag\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\02. Replace Tag\obj\x86\Debug\_02.Replace_Tag.exe
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\02. Replace Tag\obj\x86\Debug\_02.Replace_Tag.pdb

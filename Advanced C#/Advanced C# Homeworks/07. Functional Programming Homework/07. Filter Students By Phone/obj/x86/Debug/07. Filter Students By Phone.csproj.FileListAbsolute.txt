@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\07. Filter Students By Phone\bin\Debug\_07.Filter_Students_By_Phone.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\07. Filter Students By Phone\bin\Debug\_07.Filter_Students_By_Phone.pdb
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\07. Filter Students By Phone\obj\x86\Debug\_07.Filter_Students_By_Phone.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\07. Filter Students By Phone\obj\x86\Debug\_07.Filter_Students_By_Phone.pdb

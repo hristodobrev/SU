@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Class Student", "01. Class Student\01. Class Student.csproj", "{24E4D2EF-1268-4A7A-8936-7C9D23905AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Students By Group", "02. Students By Group\02. Students By Group.csproj", "{A7804E87-6B09-4CDE-8CAB-F73D930EE9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Students By First And Last Name", "03. Students By First And Last Name\03. Students By First And Last Name.csproj", "{BE670E2F-8DE7-43DB-BDE6-36AEDD25F855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Students By Age", "04. Students By Age\04. Students By Age.csproj", "{14ECE237-A357-4015-B4B8-AEB65CA8AF45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SortStudents", "05. SortStudents\05. SortStudents.csproj", "{46ABECD8-5D36-4943-B19E-B88D4FE237F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Filter Students By Email Domain", "06. Filter Students By Email Domain\06. Filter Students By Email Domain.csproj", "{9EE96CBD-0D38-474C-8361-B753A2D745DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Filter Students By Phone", "07. Filter Students By Phone\07. Filter Students By Phone.csproj", "{2ECB7C08-6AE4-46C8-BDFF-04CE8A9AB4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E4D2EF-1268-4A7A-8936-7C9D23905AFE}.Debug|x86.ActiveCfg = Debug|x86
+		{24E4D2EF-1268-4A7A-8936-7C9D23905AFE}.Debug|x86.Build.0 = Debug|x86
+		{24E4D2EF-1268-4A7A-8936-7C9D23905AFE}.Release|x86.ActiveCfg = Release|x86
+		{24E4D2EF-1268-4A7A-8936-7C9D23905AFE}.Release|x86.Build.0 = Release|x86
+		{A7804E87-6B09-4CDE-8CAB-F73D930EE9B6}.Debug|x86.ActiveCfg = Debug|x86
+		{A7804E87-6B09-4CDE-8CAB-F73D930EE9B6}.Debug|x86.Build.0 = Debug|x86
+		{A7804E87-6B09-4CDE-8CAB-F73D930EE9B6}.Release|x86.ActiveCfg = Release|x86
+		{A7804E87-6B09-4CDE-8CAB-F73D930EE9B6}.Release|x86.Build.0 = Release|x86
+		{BE670E2F-8DE7-43DB-BDE6-36AEDD25F855}.Debug|x86.ActiveCfg = Debug|x86
+		{BE670E2F-8DE7-43DB-BDE6-36AEDD25F855}.Debug|x86.Build.0 = Debug|x86
+		{BE670E2F-8DE7-43DB-BDE6-36AEDD25F855}.Release|x86.ActiveCfg = Release|x86
+		{BE670E2F-8DE7-43DB-BDE6-36AEDD25F855}.Release|x86.Build.0 = Release|x86
+		{14ECE237-A357-4015-B4B8-AEB65CA8AF45}.Debug|x86.ActiveCfg = Debug|x86
+		{14ECE237-A357-4015-B4B8-AEB65CA8AF45}.Debug|x86.Build.0 = Debug|x86
+		{14ECE237-A357-4015-B4B8-AEB65CA8AF45}.Release|x86.ActiveCfg = Release|x86
+		{14ECE237-A357-4015-B4B8-AEB65CA8AF45}.Release|x86.Build.0 = Release|x86
+		{46ABECD8-5D36-4943-B19E-B88D4FE237F9}.Debug|x86.ActiveCfg = Debug|x86
+		{46ABECD8-5D36-4943-B19E-B88D4FE237F9}.Debug|x86.Build.0 = Debug|x86
+		{46ABECD8-5D36-4943-B19E-B88D4FE237F9}.Release|x86.ActiveCfg = Release|x86
+		{46ABECD8-5D36-4943-B19E-B88D4FE237F9}.Release|x86.Build.0 = Release|x86
+		{9EE96CBD-0D38-474C-8361-B753A2D745DC}.Debug|x86.ActiveCfg = Debug|x86
+		{9EE96CBD-0D38-474C-8361-B753A2D745DC}.Debug|x86.Build.0 = Debug|x86
+		{9EE96CBD-0D38-474C-8361-B753A2D745DC}.Release|x86.ActiveCfg = Release|x86
+		{9EE96CBD-0D38-474C-8361-B753A2D745DC}.Release|x86.Build.0 = Release|x86
+		{2ECB7C08-6AE4-46C8-BDFF-04CE8A9AB4B8}.Debug|x86.ActiveCfg = Debug|x86
+		{2ECB7C08-6AE4-46C8-BDFF-04CE8A9AB4B8}.Debug|x86.Build.0 = Debug|x86
+		{2ECB7C08-6AE4-46C8-BDFF-04CE8A9AB4B8}.Release|x86.ActiveCfg = Release|x86
+		{2ECB7C08-6AE4-46C8-BDFF-04CE8A9AB4B8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

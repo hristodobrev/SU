@@ -1,0 +1,4 @@
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\07. Functional Programming\08. Excellent Students\bin\Debug\_08.Excellent_Students.exe
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\07. Functional Programming\08. Excellent Students\bin\Debug\_08.Excellent_Students.pdb
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\07. Functional Programming\08. Excellent Students\obj\x86\Debug\_08.Excellent_Students.exe
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\07. Functional Programming\08. Excellent Students\obj\x86\Debug\_08.Excellent_Students.pdb

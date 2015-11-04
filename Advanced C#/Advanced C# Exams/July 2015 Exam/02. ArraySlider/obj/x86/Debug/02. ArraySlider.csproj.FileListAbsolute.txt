@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\July 2015\02. ArraySlider\bin\Debug\_02.ArraySlider.exe
+D:\Others\Advanced C# Homeworks\Trash\July 2015\02. ArraySlider\bin\Debug\_02.ArraySlider.pdb
+D:\Others\Advanced C# Homeworks\Trash\July 2015\02. ArraySlider\obj\x86\Debug\_02.ArraySlider.exe
+D:\Others\Advanced C# Homeworks\Trash\July 2015\02. ArraySlider\obj\x86\Debug\_02.ArraySlider.pdb

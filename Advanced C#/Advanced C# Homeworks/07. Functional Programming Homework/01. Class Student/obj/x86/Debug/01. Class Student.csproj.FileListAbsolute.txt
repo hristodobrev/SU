@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\01. Class Student\bin\Debug\_01.Class_Student.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\01. Class Student\bin\Debug\_01.Class_Student.pdb
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\01. Class Student\obj\x86\Debug\_01.Class_Student.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\01. Class Student\obj\x86\Debug\_01.Class_Student.pdb

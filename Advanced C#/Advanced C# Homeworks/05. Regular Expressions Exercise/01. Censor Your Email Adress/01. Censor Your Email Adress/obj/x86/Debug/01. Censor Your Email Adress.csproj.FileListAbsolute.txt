@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\01. Censor Your Enail Adress\01. Censor Your Enail Adress\bin\Debug\_01.Censor_Your_Enail_Adress.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\01. Censor Your Enail Adress\01. Censor Your Enail Adress\bin\Debug\_01.Censor_Your_Enail_Adress.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\01. Censor Your Enail Adress\01. Censor Your Enail Adress\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\01. Censor Your Enail Adress\01. Censor Your Enail Adress\obj\x86\Debug\_01.Censor_Your_Enail_Adress.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\01. Censor Your Enail Adress\01. Censor Your Enail Adress\obj\x86\Debug\_01.Censor_Your_Enail_Adress.pdb

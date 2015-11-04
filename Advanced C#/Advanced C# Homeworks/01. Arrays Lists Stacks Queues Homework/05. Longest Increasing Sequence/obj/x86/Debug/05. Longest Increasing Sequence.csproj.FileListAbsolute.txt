@@ -1,0 +1,8 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\05. Longest Increasing Sequence\obj\x86\Debug\_05.Longest_Increasing_Sequence.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\05. Longest Increasing Sequence\obj\x86\Debug\_05.Longest_Increasing_Sequence.pdb
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\05. Longest Increasing Sequence\obj\x86\Debug\_05.Longest_Increasing_Sequence.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\05. Longest Increasing Sequence\obj\x86\Debug\_05.Longest_Increasing_Sequence.pdb
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.pdb

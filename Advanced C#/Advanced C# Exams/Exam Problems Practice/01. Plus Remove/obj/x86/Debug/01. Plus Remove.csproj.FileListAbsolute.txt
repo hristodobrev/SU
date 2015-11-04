@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\Exams\01. Plus Remove\bin\Debug\_01.Plus_Remove.exe
+D:\Others\Advanced C# Homeworks\Trash\Exams\01. Plus Remove\bin\Debug\_01.Plus_Remove.pdb
+D:\Others\Advanced C# Homeworks\Trash\Exams\01. Plus Remove\obj\x86\Debug\_01.Plus_Remove.exe
+D:\Others\Advanced C# Homeworks\Trash\Exams\01. Plus Remove\obj\x86\Debug\_01.Plus_Remove.pdb

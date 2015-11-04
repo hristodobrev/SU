@@ -1,0 +1,4 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\07. Sorted Subset Sums\bin\Debug\_07.Sorted_Subset_Sums.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\07. Sorted Subset Sums\bin\Debug\_07.Sorted_Subset_Sums.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\07. Sorted Subset Sums\obj\x86\Debug\_07.Sorted_Subset_Sums.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\07. Sorted Subset Sums\obj\x86\Debug\_07.Sorted_Subset_Sums.pdb

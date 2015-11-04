@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\Exams\04. Query Mess\bin\Debug\_04.Query_Mess.exe
+D:\Others\Advanced C# Homeworks\Trash\Exams\04. Query Mess\bin\Debug\_04.Query_Mess.pdb
+D:\Others\Advanced C# Homeworks\Trash\Exams\04. Query Mess\obj\x86\Debug\_04.Query_Mess.exe
+D:\Others\Advanced C# Homeworks\Trash\Exams\04. Query Mess\obj\x86\Debug\_04.Query_Mess.pdb

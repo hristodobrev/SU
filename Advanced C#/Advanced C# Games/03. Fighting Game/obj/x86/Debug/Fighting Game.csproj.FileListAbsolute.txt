@@ -1,0 +1,10 @@
+E:\Others\SoftUni Exercise\Other\Fighting Game\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe
+E:\Others\SoftUni Exercise\Other\Fighting Game\Fighting Game\Fighting Game\bin\Debug\Fighting Game.pdb
+E:\Others\SoftUni Exercise\Other\Fighting Game\Fighting Game\Fighting Game\obj\x86\Debug\Fighting Game.exe
+E:\Others\SoftUni Exercise\Other\Fighting Game\Fighting Game\Fighting Game\obj\x86\Debug\Fighting Game.pdb
+E:\Others\SoftUni Exercise\Other\Fighting Game\Fighting Game\Fighting Game\obj\x86\Debug\Fighting Game.csprojResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\Fighting Game\Fighting Game\obj\x86\Debug\Fighting Game.exe
+D:\Others\Advanced C# Homeworks\Fighting Game\Fighting Game\obj\x86\Debug\Fighting Game.pdb
+D:\Others\Advanced C# Homeworks\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe
+D:\Others\Advanced C# Homeworks\Fighting Game\Fighting Game\bin\Debug\Fighting Game.pdb
+D:\Others\Advanced C# Homeworks\Fighting Game\Fighting Game\obj\x86\Debug\ResolveAssemblyReference.cache

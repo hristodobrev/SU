@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\06. Number Calculations\bin\Debug\_06.Number_Calculations.exe
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\06. Number Calculations\bin\Debug\_06.Number_Calculations.pdb
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\06. Number Calculations\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\06. Number Calculations\obj\x86\Debug\_06.Number_Calculations.exe
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\06. Number Calculations\obj\x86\Debug\_06.Number_Calculations.pdb

@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\07. Letter Change Numbers\bin\Debug\_07.Letter_Change_Numbers.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\07. Letter Change Numbers\bin\Debug\_07.Letter_Change_Numbers.pdb
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\07. Letter Change Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\07. Letter Change Numbers\obj\x86\Debug\_07.Letter_Change_Numbers.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\07. Letter Change Numbers\obj\x86\Debug\_07.Letter_Change_Numbers.pdb

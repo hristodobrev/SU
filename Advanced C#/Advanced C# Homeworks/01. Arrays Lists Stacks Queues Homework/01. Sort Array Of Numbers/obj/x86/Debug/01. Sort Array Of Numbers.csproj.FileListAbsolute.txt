@@ -1,0 +1,6 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\01. Sort Array Of Numbers\bin\Debug\_01.Sort_Array_Of_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\01. Sort Array Of Numbers\bin\Debug\_01.Sort_Array_Of_Numbers.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\01. Sort Array Of Numbers\obj\x86\Debug\_01.Sort_Array_Of_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\01. Sort Array Of Numbers\obj\x86\Debug\_01.Sort_Array_Of_Numbers.pdb
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\01. Sort Array Of Numbers\obj\x86\Debug\_01.Sort_Array_Of_Numbers.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\01. Sort Array Of Numbers\obj\x86\Debug\_01.Sort_Array_Of_Numbers.pdb

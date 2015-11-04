@@ -1,0 +1,9 @@
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\bin\Debug\Hazzard.exe
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\bin\Debug\Hazzard.pdb
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\obj\x86\Debug\Hazzard.Form1.resources
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\obj\x86\Debug\Hazzard.Properties.Resources.resources
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\obj\x86\Debug\Hazzard.exe
+D:\Others\Advanced C# Homeworks\Trash\Hazzard\Hazzard\obj\x86\Debug\Hazzard.pdb

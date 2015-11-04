@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\01. Series Of Letters\bin\Debug\_01.Series_Of_Letters.exe
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\01. Series Of Letters\bin\Debug\_01.Series_Of_Letters.pdb
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\01. Series Of Letters\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\01. Series Of Letters\obj\x86\Debug\_01.Series_Of_Letters.exe
+D:\Others\Advanced C# Homeworks\05. Regular Expressions\01. Series Of Letters\obj\x86\Debug\_01.Series_Of_Letters.pdb

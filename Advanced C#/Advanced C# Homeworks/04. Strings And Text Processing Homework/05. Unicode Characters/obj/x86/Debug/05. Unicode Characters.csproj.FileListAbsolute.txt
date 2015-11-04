@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\05. Unicode Characters\bin\Debug\_05.Unicode_Characters.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\05. Unicode Characters\bin\Debug\_05.Unicode_Characters.pdb
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\05. Unicode Characters\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\05. Unicode Characters\obj\x86\Debug\_05.Unicode_Characters.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\05. Unicode Characters\obj\x86\Debug\_05.Unicode_Characters.pdb

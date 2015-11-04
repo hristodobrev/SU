@@ -1,0 +1,6 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\01. Arrays Lists Stacks Queues Homework\02. Homework 2\01. Fill The Matrix\bin\Debug\_01.Fill_The_Matrix.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\01. Arrays Lists Stacks Queues Homework\02. Homework 2\01. Fill The Matrix\bin\Debug\_01.Fill_The_Matrix.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\01. Arrays Lists Stacks Queues Homework\02. Homework 2\01. Fill The Matrix\obj\x86\Debug\_01.Fill_The_Matrix.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\01. Arrays Lists Stacks Queues Homework\02. Homework 2\01. Fill The Matrix\obj\x86\Debug\_01.Fill_The_Matrix.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\01. Fill The Matrix\obj\x86\Debug\_01.Fill_The_Matrix.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\01. Fill The Matrix\obj\x86\Debug\_01.Fill_The_Matrix.pdb

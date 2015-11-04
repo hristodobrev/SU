@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\06. Filter Students By Email Domain\bin\Debug\_06.Filter_Students_By_Email_Domain.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\06. Filter Students By Email Domain\bin\Debug\_06.Filter_Students_By_Email_Domain.pdb
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\06. Filter Students By Email Domain\obj\x86\Debug\_06.Filter_Students_By_Email_Domain.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\06. Filter Students By Email Domain\obj\x86\Debug\_06.Filter_Students_By_Email_Domain.pdb

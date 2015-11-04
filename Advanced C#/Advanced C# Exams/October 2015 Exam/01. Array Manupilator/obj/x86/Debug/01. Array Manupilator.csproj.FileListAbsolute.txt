@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\October Exam\01. Array Manupilator\bin\Debug\_01.Array_Manupilator.exe
+D:\Others\Advanced C# Homeworks\Trash\October Exam\01. Array Manupilator\bin\Debug\_01.Array_Manupilator.pdb
+D:\Others\Advanced C# Homeworks\Trash\October Exam\01. Array Manupilator\obj\x86\Debug\_01.Array_Manupilator.exe
+D:\Others\Advanced C# Homeworks\Trash\October Exam\01. Array Manupilator\obj\x86\Debug\_01.Array_Manupilator.pdb

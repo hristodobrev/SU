@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\Games\01. Snake Game\bin\Debug\_01.Snake_Game.exe
+D:\Others\Advanced C# Homeworks\Trash\Games\01. Snake Game\bin\Debug\_01.Snake_Game.pdb
+D:\Others\Advanced C# Homeworks\Trash\Games\01. Snake Game\obj\x86\Debug\_01.Snake_Game.exe
+D:\Others\Advanced C# Homeworks\Trash\Games\01. Snake Game\obj\x86\Debug\_01.Snake_Game.pdb

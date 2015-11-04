@@ -1,0 +1,4 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\04. Copy Binary File\bin\Debug\_04.Copy_Binary_File.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\04. Copy Binary File\bin\Debug\_04.Copy_Binary_File.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\04. Copy Binary File\obj\x86\Debug\_04.Copy_Binary_File.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\04. Copy Binary File\obj\x86\Debug\_04.Copy_Binary_File.pdb

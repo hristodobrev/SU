@@ -1,0 +1,5 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\03. Word Count\bin\Debug\_03.Word_Count.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\03. Word Count\bin\Debug\_03.Word_Count.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\03. Word Count\obj\x86\Debug\_03.Word_Count.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\03. Word Count\obj\x86\Debug\_03.Word_Count.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\03. Word Count\obj\x86\Debug\03. Word Count.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\07. Directory Traversal\bin\Debug\_07.Directory_Traversal.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\07. Directory Traversal\bin\Debug\_07.Directory_Traversal.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\07. Directory Traversal\obj\x86\Debug\_07.Directory_Traversal.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\07. Directory Traversal\obj\x86\Debug\_07.Directory_Traversal.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\07. Directory Traversal\obj\x86\Debug\07. Directory Traversal.csprojResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\06. Streams And Files\07. Directory Traversal\obj\x86\Debug\_07.Directory_Traversal.exe
+D:\Others\Advanced C# Homeworks\06. Streams And Files\07. Directory Traversal\obj\x86\Debug\_07.Directory_Traversal.pdb

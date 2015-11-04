@@ -1,0 +1,5 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\05. Slicing File\bin\Debug\_05.Slicing_File.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\05. Slicing File\bin\Debug\_05.Slicing_File.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\05. Slicing File\obj\x86\Debug\_05.Slicing_File.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\05. Slicing File\obj\x86\Debug\_05.Slicing_File.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\05. Slicing File\obj\x86\Debug\05. Slicing File.csprojResolveAssemblyReference.cache

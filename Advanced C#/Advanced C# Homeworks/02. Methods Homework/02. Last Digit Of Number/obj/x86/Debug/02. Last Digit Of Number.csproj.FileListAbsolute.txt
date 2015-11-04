@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\02. Last Digit Of Number\bin\Debug\_02.Last_Digit_Of_Number.exe
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\02. Last Digit Of Number\bin\Debug\_02.Last_Digit_Of_Number.pdb
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\02. Last Digit Of Number\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\02. Last Digit Of Number\obj\x86\Debug\_02.Last_Digit_Of_Number.exe
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\02. Last Digit Of Number\obj\x86\Debug\_02.Last_Digit_Of_Number.pdb

@@ -1,0 +1,5 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\05. Collect The Coins\bin\Debug\_05.Collect_The_Coins.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\05. Collect The Coins\bin\Debug\_05.Collect_The_Coins.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\05. Collect The Coins\obj\x86\Debug\_05.Collect_The_Coins.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\05. Collect The Coins\obj\x86\Debug\_05.Collect_The_Coins.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\05. Collect The Coins\obj\x86\Debug\05. Collect The Coins.csprojResolveAssemblyReference.cache

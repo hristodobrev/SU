@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\05. Reverse Number\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\05. Reverse Number\bin\Debug\_05.Reverse_Number.exe
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\05. Reverse Number\bin\Debug\_05.Reverse_Number.pdb
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\05. Reverse Number\obj\x86\Debug\_05.Reverse_Number.exe
+D:\Others\Advanced C# Homeworks\02. Methods\02. Methods\05. Reverse Number\obj\x86\Debug\_05.Reverse_Number.pdb

@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\02. String Length\bin\Debug\_02.String_Lenght.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\02. String Length\bin\Debug\_02.String_Lenght.pdb
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\02. String Length\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\02. String Length\obj\x86\Debug\_02.String_Lenght.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\02. String Length\obj\x86\Debug\_02.String_Lenght.pdb

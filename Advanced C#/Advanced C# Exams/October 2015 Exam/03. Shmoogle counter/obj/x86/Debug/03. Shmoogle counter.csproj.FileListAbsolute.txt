@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\October Exam\03. Shmoogle counter\bin\Debug\_03.Shmoogle_counter.exe
+D:\Others\Advanced C# Homeworks\Trash\October Exam\03. Shmoogle counter\bin\Debug\_03.Shmoogle_counter.pdb
+D:\Others\Advanced C# Homeworks\Trash\October Exam\03. Shmoogle counter\obj\x86\Debug\_03.Shmoogle_counter.exe
+D:\Others\Advanced C# Homeworks\Trash\October Exam\03. Shmoogle counter\obj\x86\Debug\_03.Shmoogle_counter.pdb

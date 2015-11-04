@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\01. Reverse String\bin\Debug\_01.Reverse_String.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\01. Reverse String\bin\Debug\_01.Reverse_String.pdb
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\01. Reverse String\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\01. Reverse String\obj\x86\Debug\_01.Reverse_String.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\01. Reverse String\obj\x86\Debug\_01.Reverse_String.pdb

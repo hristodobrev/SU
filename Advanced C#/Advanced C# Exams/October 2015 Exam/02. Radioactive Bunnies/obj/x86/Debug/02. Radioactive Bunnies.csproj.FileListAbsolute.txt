@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\October Exam\02. Radioactive Bunnies\bin\Debug\_02.Radioactive_Bunnies.exe
+D:\Others\Advanced C# Homeworks\Trash\October Exam\02. Radioactive Bunnies\bin\Debug\_02.Radioactive_Bunnies.pdb
+D:\Others\Advanced C# Homeworks\Trash\October Exam\02. Radioactive Bunnies\obj\x86\Debug\_02.Radioactive_Bunnies.exe
+D:\Others\Advanced C# Homeworks\Trash\October Exam\02. Radioactive Bunnies\obj\x86\Debug\_02.Radioactive_Bunnies.pdb

@@ -1,0 +1,8 @@
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.pdb
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\09. Stuck Numbers\obj\x86\Debug\_09.Stuck_Numbers.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\09. Stuck Numbers\obj\x86\Debug\_09.Stuck_Numbers.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\09. Stuck Numbers\obj\x86\Debug\_09.Stuck_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\09. Stuck Numbers\obj\x86\Debug\_09.Stuck_Numbers.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.pdb

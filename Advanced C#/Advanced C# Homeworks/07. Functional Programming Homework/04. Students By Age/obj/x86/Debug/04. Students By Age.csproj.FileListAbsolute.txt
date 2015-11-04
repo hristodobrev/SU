@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\04. Students By Age\bin\Debug\_04.Students_By_Age.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\04. Students By Age\bin\Debug\_04.Students_By_Age.pdb
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\04. Students By Age\obj\x86\Debug\_04.Students_By_Age.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\04. Students By Age\obj\x86\Debug\_04.Students_By_Age.pdb

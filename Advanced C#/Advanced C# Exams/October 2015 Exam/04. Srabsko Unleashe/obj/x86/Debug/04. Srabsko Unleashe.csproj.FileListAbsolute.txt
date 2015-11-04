@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\October Exam\04. Srabsko Unleashe\bin\Debug\_04.Srabsko_Unleashe.exe
+D:\Others\Advanced C# Homeworks\Trash\October Exam\04. Srabsko Unleashe\bin\Debug\_04.Srabsko_Unleashe.pdb
+D:\Others\Advanced C# Homeworks\Trash\October Exam\04. Srabsko Unleashe\obj\x86\Debug\_04.Srabsko_Unleashe.exe
+D:\Others\Advanced C# Homeworks\Trash\October Exam\04. Srabsko Unleashe\obj\x86\Debug\_04.Srabsko_Unleashe.pdb

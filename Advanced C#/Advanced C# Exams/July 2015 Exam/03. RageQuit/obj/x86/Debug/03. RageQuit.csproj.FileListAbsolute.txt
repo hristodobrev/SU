@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\July 2015\03. RageQuit\bin\Debug\_03.RageQuit.exe
+D:\Others\Advanced C# Homeworks\Trash\July 2015\03. RageQuit\bin\Debug\_03.RageQuit.pdb
+D:\Others\Advanced C# Homeworks\Trash\July 2015\03. RageQuit\obj\x86\Debug\_03.RageQuit.exe
+D:\Others\Advanced C# Homeworks\Trash\July 2015\03. RageQuit\obj\x86\Debug\_03.RageQuit.pdb

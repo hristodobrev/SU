@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\02. Students By Group\bin\Debug\_02.Students_By_Group.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\02. Students By Group\bin\Debug\_02.Students_By_Group.pdb
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\02. Students By Group\obj\x86\Debug\_02.Students_By_Group.exe
+D:\Others\Advanced C# Homeworks\Trash\07. Functional Programming\02. Students By Group\obj\x86\Debug\_02.Students_By_Group.pdb

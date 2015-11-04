@@ -1,0 +1,4 @@
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\05. Semantic HTML\bin\Debug\_05.Semantic_HTML.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\05. Semantic HTML\bin\Debug\_05.Semantic_HTML.pdb
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\05. Semantic HTML\obj\x86\Debug\_05.Semantic_HTML.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\05. Semantic HTML\obj\x86\Debug\_05.Semantic_HTML.pdb

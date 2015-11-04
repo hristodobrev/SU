@@ -1,0 +1,4 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\02. Line Numbers\bin\Debug\_02.Line_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\02. Line Numbers\bin\Debug\_02.Line_Numbers.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\02. Line Numbers\obj\x86\Debug\_02.Line_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\02. Line Numbers\obj\x86\Debug\_02.Line_Numbers.pdb

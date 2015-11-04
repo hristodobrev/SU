@@ -1,0 +1,4 @@
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\07. Functional Programming\09. Weak Students\bin\Debug\_09.Weak_Students.exe
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\07. Functional Programming\09. Weak Students\bin\Debug\_09.Weak_Students.pdb
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\07. Functional Programming\09. Weak Students\obj\x86\Debug\_09.Weak_Students.exe
+E:\Others\Advanced-CSharp\Advanced C# Homeworks\07. Functional Programming\09. Weak Students\obj\x86\Debug\_09.Weak_Students.pdb

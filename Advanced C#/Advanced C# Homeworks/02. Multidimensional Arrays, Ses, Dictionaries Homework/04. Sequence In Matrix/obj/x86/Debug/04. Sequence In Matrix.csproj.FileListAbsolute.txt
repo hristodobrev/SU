@@ -1,0 +1,9 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\bin\Debug\_04.Sequence_In_Matrix.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\bin\Debug\_04.Sequence_In_Matrix.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\obj\x86\Debug\_04.Sequence_In_Matrix.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\obj\x86\Debug\_04.Sequence_In_Matrix.pdb
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\obj\x86\Debug\_04.Sequence_In_Matrix.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\obj\x86\Debug\_04.Sequence_In_Matrix.pdb
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\bin\Debug\_04.Sequence_In_Matrix.exe
+D:\Others\Advanced C# Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\04. Sequence In Matrix\bin\Debug\_04.Sequence_In_Matrix.pdb

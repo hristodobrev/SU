@@ -1,0 +1,4 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\03. Matrix Shuffling\bin\Debug\_03.Matrix_Shuffling.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\03. Matrix Shuffling\bin\Debug\_03.Matrix_Shuffling.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\03. Matrix Shuffling\obj\x86\Debug\_03.Matrix_Shuffling.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\03. Matrix Shuffling\obj\x86\Debug\_03.Matrix_Shuffling.pdb

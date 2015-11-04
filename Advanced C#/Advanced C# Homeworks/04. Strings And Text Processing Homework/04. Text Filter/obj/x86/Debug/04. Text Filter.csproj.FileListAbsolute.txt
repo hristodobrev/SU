@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\04. Text Filter\bin\Debug\_04.Text_Filter.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\04. Text Filter\bin\Debug\_04.Text_Filter.pdb
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\04. Text Filter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\04. Text Filter\obj\x86\Debug\_04.Text_Filter.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\04. Text Filter\obj\x86\Debug\_04.Text_Filter.pdb

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse String", "01. Reverse String\01. Reverse String.csproj", "{154E9B1C-1732-43A3-AA5A-872416D6077F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. String Length", "02. String Length\02. String Length.csproj", "{E3C071CD-BF15-4D49-B549-238CBE235779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Count Substring Occurances", "03. Count Substring Occurances\03. Count Substring Occurances.csproj", "{FE1485F2-ECEA-48FB-B3BE-23E60B984024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Text Filter", "04. Text Filter\04. Text Filter.csproj", "{21D39F21-C7AC-4021-BF58-D01E74C05D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Unicode Characters", "05. Unicode Characters\05. Unicode Characters.csproj", "{46F3AB77-A79C-48E7-B022-7A8852DF8DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Palindromes", "06. Palindromes\06. Palindromes.csproj", "{32C8AF2E-8A11-4059-9059-8223AC08E48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Letter Change Numbers", "07. Letter Change Numbers\07. Letter Change Numbers.csproj", "{BC12546E-F9C3-4DB1-A75F-30CB570E1DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154E9B1C-1732-43A3-AA5A-872416D6077F}.Debug|x86.ActiveCfg = Debug|x86
+		{154E9B1C-1732-43A3-AA5A-872416D6077F}.Debug|x86.Build.0 = Debug|x86
+		{154E9B1C-1732-43A3-AA5A-872416D6077F}.Release|x86.ActiveCfg = Release|x86
+		{154E9B1C-1732-43A3-AA5A-872416D6077F}.Release|x86.Build.0 = Release|x86
+		{E3C071CD-BF15-4D49-B549-238CBE235779}.Debug|x86.ActiveCfg = Debug|x86
+		{E3C071CD-BF15-4D49-B549-238CBE235779}.Debug|x86.Build.0 = Debug|x86
+		{E3C071CD-BF15-4D49-B549-238CBE235779}.Release|x86.ActiveCfg = Release|x86
+		{E3C071CD-BF15-4D49-B549-238CBE235779}.Release|x86.Build.0 = Release|x86
+		{FE1485F2-ECEA-48FB-B3BE-23E60B984024}.Debug|x86.ActiveCfg = Debug|x86
+		{FE1485F2-ECEA-48FB-B3BE-23E60B984024}.Debug|x86.Build.0 = Debug|x86
+		{FE1485F2-ECEA-48FB-B3BE-23E60B984024}.Release|x86.ActiveCfg = Release|x86
+		{FE1485F2-ECEA-48FB-B3BE-23E60B984024}.Release|x86.Build.0 = Release|x86
+		{21D39F21-C7AC-4021-BF58-D01E74C05D8E}.Debug|x86.ActiveCfg = Debug|x86
+		{21D39F21-C7AC-4021-BF58-D01E74C05D8E}.Debug|x86.Build.0 = Debug|x86
+		{21D39F21-C7AC-4021-BF58-D01E74C05D8E}.Release|x86.ActiveCfg = Release|x86
+		{21D39F21-C7AC-4021-BF58-D01E74C05D8E}.Release|x86.Build.0 = Release|x86
+		{46F3AB77-A79C-48E7-B022-7A8852DF8DC0}.Debug|x86.ActiveCfg = Debug|x86
+		{46F3AB77-A79C-48E7-B022-7A8852DF8DC0}.Debug|x86.Build.0 = Debug|x86
+		{46F3AB77-A79C-48E7-B022-7A8852DF8DC0}.Release|x86.ActiveCfg = Release|x86
+		{46F3AB77-A79C-48E7-B022-7A8852DF8DC0}.Release|x86.Build.0 = Release|x86
+		{32C8AF2E-8A11-4059-9059-8223AC08E48D}.Debug|x86.ActiveCfg = Debug|x86
+		{32C8AF2E-8A11-4059-9059-8223AC08E48D}.Debug|x86.Build.0 = Debug|x86
+		{32C8AF2E-8A11-4059-9059-8223AC08E48D}.Release|x86.ActiveCfg = Release|x86
+		{32C8AF2E-8A11-4059-9059-8223AC08E48D}.Release|x86.Build.0 = Release|x86
+		{BC12546E-F9C3-4DB1-A75F-30CB570E1DEA}.Debug|x86.ActiveCfg = Debug|x86
+		{BC12546E-F9C3-4DB1-A75F-30CB570E1DEA}.Debug|x86.Build.0 = Debug|x86
+		{BC12546E-F9C3-4DB1-A75F-30CB570E1DEA}.Release|x86.ActiveCfg = Release|x86
+		{BC12546E-F9C3-4DB1-A75F-30CB570E1DEA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

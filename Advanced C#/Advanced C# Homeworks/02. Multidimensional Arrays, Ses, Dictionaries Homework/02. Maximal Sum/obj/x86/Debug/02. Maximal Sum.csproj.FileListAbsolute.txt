@@ -1,0 +1,6 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\01. Arrays Lists Stacks Queues Homework\02. Homework 2\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\01. Arrays Lists Stacks Queues Homework\02. Homework 2\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\01. Arrays Lists Stacks Queues Homework\02. Homework 2\02. Maximal Sum\obj\x86\Debug\_02.Maximal_Sum.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\01. Arrays Lists Stacks Queues Homework\02. Homework 2\02. Maximal Sum\obj\x86\Debug\_02.Maximal_Sum.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\02. Maximal Sum\obj\x86\Debug\_02.Maximal_Sum.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\02. Multidimensional Arrays, Ses, Dictionaries Homework\02. Maximal Sum\obj\x86\Debug\_02.Maximal_Sum.pdb

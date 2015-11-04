@@ -1,0 +1,8 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\06. Subset Sums\bin\Debug\_06.Subset_Sums.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\06. Subset Sums\bin\Debug\_06.Subset_Sums.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\06. Subset Sums\obj\x86\Debug\_06.Subset_Sums.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\06. Subset Sums\obj\x86\Debug\_06.Subset_Sums.pdb
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\06. Subset Sums\obj\x86\Debug\_06.Subset_Sums.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\06. Subset Sums\obj\x86\Debug\_06.Subset_Sums.pdb
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\06. Subset Sums\bin\Debug\_06.Subset_Sums.exe
+\\Neutron-pc\e\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\06. Subset Sums\bin\Debug\_06.Subset_Sums.pdb

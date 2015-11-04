@@ -1,0 +1,4 @@
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\02. String Matrix Rotation\bin\Debug\_02.String_Matrix_Rotation.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\02. String Matrix Rotation\bin\Debug\_02.String_Matrix_Rotation.pdb
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\02. String Matrix Rotation\obj\x86\Debug\_02.String_Matrix_Rotation.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Exams\02. String Matrix Rotation\obj\x86\Debug\_02.String_Matrix_Rotation.pdb

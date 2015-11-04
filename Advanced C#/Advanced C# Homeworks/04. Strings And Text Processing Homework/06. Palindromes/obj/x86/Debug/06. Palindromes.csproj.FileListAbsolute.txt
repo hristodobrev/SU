@@ -1,0 +1,5 @@
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\06. Palindromes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\06. Palindromes\bin\Debug\_06.Palindromes.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\06. Palindromes\bin\Debug\_06.Palindromes.pdb
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\06. Palindromes\obj\x86\Debug\_06.Palindromes.exe
+D:\Others\Advanced C# Homeworks\04. Strings And Text Processing\06. Palindromes\obj\x86\Debug\_06.Palindromes.pdb

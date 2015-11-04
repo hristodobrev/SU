@@ -1,0 +1,4 @@
+D:\Others\Advanced C# Homeworks\Trash\Exams\00. Examples and Tests\bin\Debug\_00.Examples_and_Tests.exe
+D:\Others\Advanced C# Homeworks\Trash\Exams\00. Examples and Tests\bin\Debug\_00.Examples_and_Tests.pdb
+D:\Others\Advanced C# Homeworks\Trash\Exams\00. Examples and Tests\obj\x86\Debug\_00.Examples_and_Tests.exe
+D:\Others\Advanced C# Homeworks\Trash\Exams\00. Examples and Tests\obj\x86\Debug\_00.Examples_and_Tests.pdb

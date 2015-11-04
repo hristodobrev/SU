@@ -1,0 +1,4 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\03. Categorize Numbers\bin\Debug\_03.Categorize_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\03. Categorize Numbers\bin\Debug\_03.Categorize_Numbers.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\03. Categorize Numbers\obj\x86\Debug\_03.Categorize_Numbers.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\01. Arrays Lists Stacks Queues Homework\03. Categorize Numbers\obj\x86\Debug\_03.Categorize_Numbers.pdb

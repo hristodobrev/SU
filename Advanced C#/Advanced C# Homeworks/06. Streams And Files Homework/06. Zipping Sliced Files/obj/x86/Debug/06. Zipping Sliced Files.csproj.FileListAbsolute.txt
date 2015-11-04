@@ -1,0 +1,4 @@
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\06. Zipping Sliced Files\bin\Debug\_06.Zipping_Sliced_Files.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\06. Zipping Sliced Files\bin\Debug\_06.Zipping_Sliced_Files.pdb
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\06. Zipping Sliced Files\obj\x86\Debug\_06.Zipping_Sliced_Files.exe
+E:\Others\SoftUni Exercise\Advanced CSharp\Homeworks\06. Streams And Files\06. Zipping Sliced Files\obj\x86\Debug\_06.Zipping_Sliced_Files.pdb
