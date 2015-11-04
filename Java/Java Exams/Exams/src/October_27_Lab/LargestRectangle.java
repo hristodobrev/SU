@@ -1,4 +1,4 @@
-package October27Lab;
+package October_27_Lab;
 
 import java.util.ArrayList;
 import java.util.Scanner;
