@@ -1,0 +1,4 @@
+E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe
+E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.pdb
+E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\02. Laptop Shop\obj\x86\Debug\_02.Laptop_Shop.exe
+E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\02. Laptop Shop\obj\x86\Debug\_02.Laptop_Shop.pdb
