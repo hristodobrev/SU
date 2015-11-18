@@ -2,7 +2,7 @@
 
 namespace _03.PC_Catalog
 {
-    class Computer
+    abstract class Computer
     {
         private string name;
         private double price;
