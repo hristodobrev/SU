@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Battery.cs" />
     <Compile Include="Laptop.cs" />
     <Compile Include="LaptopShop.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

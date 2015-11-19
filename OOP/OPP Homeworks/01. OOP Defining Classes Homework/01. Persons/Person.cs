@@ -8,7 +8,8 @@ namespace _01.Persons
         private int age;
         private string email;
 
-        public Person(string name, int age) : this(name, age, null)
+        public Person(string name, int age)
+            : this(name, age, null)
         {
         }
 
@@ -16,7 +17,7 @@ namespace _01.Persons
         {
             this.Name = name;
             this.Age = age;
-            this.email = email;
+            this.Email = email;
         }
 
         public string Name
@@ -29,7 +30,7 @@ namespace _01.Persons
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    throw new Exception("Name cannot be empty.");
+                    throw new ArgumentNullException("Name cannot be empty.");
                 }
                 this.name = value;
             }
@@ -45,7 +46,7 @@ namespace _01.Persons
             {
                 if (value < 1 || value > 100)
                 {
-                    throw new Exception("Age should be in range [0, 100].");
+                    throw new ArgumentException("Age should be in range [0, 100].");
                 }
                 this.age = value;
             }
@@ -59,12 +60,9 @@ namespace _01.Persons
             }
             set
             {
-                if (value != null)
+                if (!String.IsNullOrEmpty(value) && !value.Contains("@"))
                 {
-                    if (!value.Contains("@"))
-                    {
-                        throw new Exception("Email should contain @.");
-                    }
+                    throw new ArgumentException("Email must contain \"@\".");
                 }
                 this.email = value;
             }
@@ -72,7 +70,7 @@ namespace _01.Persons
 
         public override string ToString()
         {
-            return String.Format("{0}, {1}: {2}", this.Name, this.Age, this.email ?? "No email");
+            return String.Format("Name: {0}, Age: {1}, Email: {2}", this.Name, this.Age, String.IsNullOrEmpty(this.Email) ? "No email" : this.Email);
         }
     }
 }

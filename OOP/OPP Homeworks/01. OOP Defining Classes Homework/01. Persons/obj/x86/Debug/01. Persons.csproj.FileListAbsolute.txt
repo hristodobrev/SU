@@ -2,3 +2,5 @@ E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\01. Persons\bin\Debug\
 E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\01. Persons\bin\Debug\_01.Persons.pdb
 E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\01. Persons\obj\x86\Debug\_01.Persons.exe
 E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\01. Persons\obj\x86\Debug\_01.Persons.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\01. Persons\obj\x86\Debug\_01.Persons.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\01. Persons\obj\x86\Debug\_01.Persons.pdb
