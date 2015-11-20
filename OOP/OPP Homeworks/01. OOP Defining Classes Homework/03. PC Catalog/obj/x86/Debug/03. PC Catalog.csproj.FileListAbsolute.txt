@@ -4,3 +4,6 @@ E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\03. PC Catalog\obj\x86
 E:\Others\OPP Homeworks\01. OOP Defining Classes Homework\03. PC Catalog\obj\x86\Debug\_03.PC_Catalog.pdb
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\03. PC Catalog\obj\x86\Debug\_03.PC_Catalog.exe
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\03. PC Catalog\obj\x86\Debug\_03.PC_Catalog.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\03. PC Catalog\bin\Debug\_03.PC_Catalog.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\03. PC Catalog\bin\Debug\_03.PC_Catalog.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\03. PC Catalog\obj\x86\Debug\03. PC Catalog.csprojResolveAssemblyReference.cache

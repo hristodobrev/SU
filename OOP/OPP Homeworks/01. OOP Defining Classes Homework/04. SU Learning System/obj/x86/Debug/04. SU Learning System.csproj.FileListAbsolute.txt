@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\04. SU Learning System\bin\Debug\_04.SU_Learning_System.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\04. SU Learning System\bin\Debug\_04.SU_Learning_System.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\04. SU Learning System\obj\x86\Debug\_04.SU_Learning_System.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\01. OOP Defining Classes Homework\04. SU Learning System\obj\x86\Debug\_04.SU_Learning_System.pdb

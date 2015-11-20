@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace _03.PC_Catalog
 {
@@ -54,7 +55,7 @@ namespace _03.PC_Catalog
             {
                 sb.Append(component.ToString() + "\n");
             }
-            sb.Append("Total price: " + this.Price);
+            sb.Append(String.Format("Total price: {0}", this.Price.ToString("C", CultureInfo.CreateSpecificCulture("bg-BG"))));
 
             return sb.ToString();
         }

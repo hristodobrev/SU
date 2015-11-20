@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using System.Globalization;
 
 namespace _03.PC_Catalog
 {
@@ -50,7 +51,7 @@ namespace _03.PC_Catalog
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException("Price must be positive number.");
+                    throw new ArgumentOutOfRangeException("Price must be positive number.");
                 }
                 this.price = value;
             }
@@ -78,8 +79,7 @@ namespace _03.PC_Catalog
 	        {
 		            sb.Append(": " + this.Details);
 	        }
-
-            sb.Append(" - " + this.Price);
+            sb.Append(String.Format(" - {0}", this.Price.ToString("C", CultureInfo.CreateSpecificCulture("bg-BG"))));
 
             return sb.ToString();
         }

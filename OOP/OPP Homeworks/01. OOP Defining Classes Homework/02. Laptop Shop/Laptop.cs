@@ -74,7 +74,7 @@ namespace _02.Laptop_Shop
             }
             else
             {
-                throw new Exception("Model cannot be empty.");
+                throw new ArgumentNullException("Model cannot be empty.");
             }
 
             if (price >= 0)
@@ -83,7 +83,7 @@ namespace _02.Laptop_Shop
             }
             else
             {
-                throw new Exception("Price cannot be negative number.");
+                throw new ArgumentOutOfRangeException("Price cannot be negative number.");
             }
 
             this.manufacturer = manufacturer;
@@ -106,7 +106,7 @@ namespace _02.Laptop_Shop
             {
                 if (String.IsNullOrEmpty(value))
                 {
-                    throw new Exception("Model cannot be empty.");
+                    throw new ArgumentNullException("Model cannot be empty.");
                 }
                 this.model = value;
             }
@@ -122,7 +122,7 @@ namespace _02.Laptop_Shop
             {
                 if (String.IsNullOrEmpty(value))
                 {
-                    throw new Exception("Manufacturer cannot be empty.");
+                    throw new ArgumentNullException("Manufacturer cannot be empty.");
                 }
                 this.manufacturer = value;
             }
@@ -138,7 +138,7 @@ namespace _02.Laptop_Shop
             {
                 if (String.IsNullOrEmpty(value))
                 {
-                    throw new Exception("Processor cannot be empty.");
+                    throw new ArgumentNullException("Processor cannot be empty.");
                 }
                 this.processor = value;
             }
@@ -154,7 +154,7 @@ namespace _02.Laptop_Shop
             {
                 if (value < 0)
                 {
-                    throw new Exception("Ram cannot be negative number.");
+                    throw new ArgumentOutOfRangeException("Ram cannot be negative number.");
                 }
                 this.ram = value;
             }
@@ -170,7 +170,7 @@ namespace _02.Laptop_Shop
             {
                 if (String.IsNullOrEmpty(value))
                 {
-                    throw new Exception("Graphics Card cannot be empty.");
+                    throw new ArgumentNullException("Graphics Card cannot be empty.");
                 }
                 this.graphicsCard = value;
             }
@@ -186,7 +186,7 @@ namespace _02.Laptop_Shop
             {
                 if (String.IsNullOrEmpty(value))
                 {
-                    throw new Exception("HDD cannot be empty.");
+                    throw new ArgumentNullException("HDD cannot be empty.");
                 }
                 this.hdd = value;
             }
@@ -202,7 +202,7 @@ namespace _02.Laptop_Shop
             {
                 if (String.IsNullOrEmpty(value))
                 {
-                    throw new Exception("Screen cannot be empty.");
+                    throw new ArgumentNullException("Screen cannot be empty.");
                 }
                 this.screen = value;
             }
@@ -230,7 +230,7 @@ namespace _02.Laptop_Shop
             {
                 if (value < 0)
                 {
-                    throw new Exception("Price cannot be negative number.");
+                    throw new ArgumentOutOfRangeException("Price cannot be negative number.");
                 }
                 this.price = value;
             }

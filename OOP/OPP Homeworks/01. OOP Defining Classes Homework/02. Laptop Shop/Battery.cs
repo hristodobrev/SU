@@ -29,7 +29,7 @@ namespace _02.Laptop_Shop
             {
                 if (String.IsNullOrEmpty(value))
                 {
-                    throw new Exception("Model cannot be empty.");
+                    throw new ArgumentNullException("Model cannot be empty.");
                 }
                 this.model = value;
             }
@@ -45,7 +45,7 @@ namespace _02.Laptop_Shop
             {
                 if (value < 0)
                 {
-                    throw new Exception("Battery Life cannot be negative number.");
+                    throw new ArgumentOutOfRangeException("Battery Life cannot be negative number.");
                 }
                 this.batteryLife = value;
             }
