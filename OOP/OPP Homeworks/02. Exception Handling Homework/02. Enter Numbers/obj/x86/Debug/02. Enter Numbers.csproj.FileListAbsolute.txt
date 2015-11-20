@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\02. Enter Numbers\bin\Debug\_02.Enter_Numbers.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\02. Enter Numbers\bin\Debug\_02.Enter_Numbers.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\02. Enter Numbers\obj\x86\Debug\_02.Enter_Numbers.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\02. Enter Numbers\obj\x86\Debug\_02.Enter_Numbers.pdb

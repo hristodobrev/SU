@@ -1,0 +1,6 @@
+D:\Others\Advanced C# Homeworks\Trash\Exception Handling Exercise\Exception Handling Exercise\bin\Debug\Exception Handling Exercise.exe
+D:\Others\Advanced C# Homeworks\Trash\Exception Handling Exercise\Exception Handling Exercise\bin\Debug\Exception Handling Exercise.pdb
+D:\Others\Advanced C# Homeworks\Trash\Exception Handling Exercise\Exception Handling Exercise\obj\x86\Debug\Exception Handling Exercise.exe
+D:\Others\Advanced C# Homeworks\Trash\Exception Handling Exercise\Exception Handling Exercise\obj\x86\Debug\Exception Handling Exercise.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\Exception Handling Exercise\obj\x86\Debug\Exception Handling Exercise.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\Exception Handling Exercise\obj\x86\Debug\Exception Handling Exercise.pdb

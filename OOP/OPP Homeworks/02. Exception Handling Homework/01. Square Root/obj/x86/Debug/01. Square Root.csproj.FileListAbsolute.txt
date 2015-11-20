@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\01. Square Root\bin\Debug\_01.Square_Root.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\01. Square Root\bin\Debug\_01.Square_Root.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\01. Square Root\obj\x86\Debug\_01.Square_Root.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Exception Handling Homework\01. Square Root\obj\x86\Debug\_01.Square_Root.pdb
