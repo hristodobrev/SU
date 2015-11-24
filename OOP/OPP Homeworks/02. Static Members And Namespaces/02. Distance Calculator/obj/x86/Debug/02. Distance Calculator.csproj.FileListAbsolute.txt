@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\02. Distance Calculator\bin\Debug\_02.Distance_Calculator.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\02. Distance Calculator\bin\Debug\_02.Distance_Calculator.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\02. Distance Calculator\obj\x86\Debug\_02.Distance_Calculator.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\02. Distance Calculator\obj\x86\Debug\_02.Distance_Calculator.pdb

@@ -1,0 +1,10 @@
+D:\Others\Advanced C# Homeworks\Trash\Lab OOP November 20\Lab OOP November 20\bin\Debug\Lab OOP November 20.exe
+D:\Others\Advanced C# Homeworks\Trash\Lab OOP November 20\Lab OOP November 20\bin\Debug\Lab OOP November 20.pdb
+D:\Others\Advanced C# Homeworks\Trash\Lab OOP November 20\Lab OOP November 20\obj\x86\Debug\Lab OOP November 20.exe
+D:\Others\Advanced C# Homeworks\Trash\Lab OOP November 20\Lab OOP November 20\obj\x86\Debug\Lab OOP November 20.pdb
+D:\Others\Advanced C# Homeworks\Trash\Lab OOP November 20\Lab OOP November 20\obj\x86\Debug\Football League.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OOP Labs\Lab OOP November 20\Lab OOP November 20\obj\x86\Debug\Lab OOP November 20.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OOP Labs\Lab OOP November 20\Lab OOP November 20\obj\x86\Debug\Lab OOP November 20.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OOP Labs\Lab OOP November 20\Lab OOP November 20\obj\x86\Debug\Football League.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OOP Labs\Lab OOP November 20\Lab OOP November 20\bin\Debug\Lab OOP November 20.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OOP Labs\Lab OOP November 20\Lab OOP November 20\bin\Debug\Lab OOP November 20.pdb

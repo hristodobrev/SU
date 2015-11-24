@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\03. Paths\bin\Debug\_03.Paths.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\03. Paths\bin\Debug\_03.Paths.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\03. Paths\obj\x86\Debug\_03.Paths.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\03. Paths\obj\x86\Debug\_03.Paths.pdb

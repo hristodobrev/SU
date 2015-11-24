@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure Of An RPG Game Exercise", "Structure Of An RPG Game Exercise\Structure Of An RPG Game Exercise.csproj", "{FD49EA0E-EAD7-45B7-A5EC-760B8ABFF5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Point 3D", "01. Point 3D\01. Point 3D.csproj", "{50E7F6B6-A856-471C-9C8B-390C1DE58B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Distance Calculator", "02. Distance Calculator\02. Distance Calculator.csproj", "{63E2BF36-A59D-4F36-B578-B839BEB1999A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Paths", "03. Paths\03. Paths.csproj", "{589139EA-F6FE-4BEB-B72F-097A63A4F9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Namespaces", "04. Namespaces\04. Namespaces.csproj", "{338DDC0B-87E5-4B12-A0CA-BE8CDF3DDEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. HTML Dispatcher", "05. HTML Dispatcher\05. HTML Dispatcher.csproj", "{4EEE77D8-D1FF-452A-9553-9AD4D49DFD80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. BitArray", "06. BitArray\06. BitArray.csproj", "{7197DF6E-B02F-49DD-86C8-B3FE0D987068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD49EA0E-EAD7-45B7-A5EC-760B8ABFF5B4}.Debug|x86.ActiveCfg = Debug|x86
+		{FD49EA0E-EAD7-45B7-A5EC-760B8ABFF5B4}.Debug|x86.Build.0 = Debug|x86
+		{FD49EA0E-EAD7-45B7-A5EC-760B8ABFF5B4}.Release|x86.ActiveCfg = Release|x86
+		{FD49EA0E-EAD7-45B7-A5EC-760B8ABFF5B4}.Release|x86.Build.0 = Release|x86
+		{50E7F6B6-A856-471C-9C8B-390C1DE58B3E}.Debug|x86.ActiveCfg = Debug|x86
+		{50E7F6B6-A856-471C-9C8B-390C1DE58B3E}.Debug|x86.Build.0 = Debug|x86
+		{50E7F6B6-A856-471C-9C8B-390C1DE58B3E}.Release|x86.ActiveCfg = Release|x86
+		{50E7F6B6-A856-471C-9C8B-390C1DE58B3E}.Release|x86.Build.0 = Release|x86
+		{63E2BF36-A59D-4F36-B578-B839BEB1999A}.Debug|x86.ActiveCfg = Debug|x86
+		{63E2BF36-A59D-4F36-B578-B839BEB1999A}.Debug|x86.Build.0 = Debug|x86
+		{63E2BF36-A59D-4F36-B578-B839BEB1999A}.Release|x86.ActiveCfg = Release|x86
+		{63E2BF36-A59D-4F36-B578-B839BEB1999A}.Release|x86.Build.0 = Release|x86
+		{589139EA-F6FE-4BEB-B72F-097A63A4F9FC}.Debug|x86.ActiveCfg = Debug|x86
+		{589139EA-F6FE-4BEB-B72F-097A63A4F9FC}.Debug|x86.Build.0 = Debug|x86
+		{589139EA-F6FE-4BEB-B72F-097A63A4F9FC}.Release|x86.ActiveCfg = Release|x86
+		{589139EA-F6FE-4BEB-B72F-097A63A4F9FC}.Release|x86.Build.0 = Release|x86
+		{338DDC0B-87E5-4B12-A0CA-BE8CDF3DDEBE}.Debug|x86.ActiveCfg = Debug|x86
+		{338DDC0B-87E5-4B12-A0CA-BE8CDF3DDEBE}.Debug|x86.Build.0 = Debug|x86
+		{338DDC0B-87E5-4B12-A0CA-BE8CDF3DDEBE}.Release|x86.ActiveCfg = Release|x86
+		{338DDC0B-87E5-4B12-A0CA-BE8CDF3DDEBE}.Release|x86.Build.0 = Release|x86
+		{4EEE77D8-D1FF-452A-9553-9AD4D49DFD80}.Debug|x86.ActiveCfg = Debug|x86
+		{4EEE77D8-D1FF-452A-9553-9AD4D49DFD80}.Debug|x86.Build.0 = Debug|x86
+		{4EEE77D8-D1FF-452A-9553-9AD4D49DFD80}.Release|x86.ActiveCfg = Release|x86
+		{4EEE77D8-D1FF-452A-9553-9AD4D49DFD80}.Release|x86.Build.0 = Release|x86
+		{7197DF6E-B02F-49DD-86C8-B3FE0D987068}.Debug|x86.ActiveCfg = Debug|x86
+		{7197DF6E-B02F-49DD-86C8-B3FE0D987068}.Debug|x86.Build.0 = Debug|x86
+		{7197DF6E-B02F-49DD-86C8-B3FE0D987068}.Release|x86.ActiveCfg = Release|x86
+		{7197DF6E-B02F-49DD-86C8-B3FE0D987068}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

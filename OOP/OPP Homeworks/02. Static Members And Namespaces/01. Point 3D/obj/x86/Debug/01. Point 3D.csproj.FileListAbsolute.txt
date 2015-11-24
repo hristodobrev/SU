@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\01. Point 3D\bin\Debug\_01.Point_3D.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\01. Point 3D\bin\Debug\_01.Point_3D.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\01. Point 3D\obj\x86\Debug\_01.Point_3D.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\01. Point 3D\obj\x86\Debug\_01.Point_3D.pdb
