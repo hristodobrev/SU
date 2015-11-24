@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\Working With Abstraction Exercise\bin\Debug\Working With Abstraction Exercise.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\Working With Abstraction Exercise\bin\Debug\Working With Abstraction Exercise.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\Working With Abstraction Exercise\obj\x86\Debug\Working With Abstraction Exercise.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\Working With Abstraction Exercise\obj\x86\Debug\Working With Abstraction Exercise.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\01. Human Student And Worker\bin\Debug\_01.Human_Student_And_Worker.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\01. Human Student And Worker\bin\Debug\_01.Human_Student_And_Worker.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\01. Human Student And Worker\obj\x86\Debug\_01.Human_Student_And_Worker.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\01. Human Student And Worker\obj\x86\Debug\_01.Human_Student_And_Worker.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\01. Human Student And Worker\obj\x86\Debug\01. Human Student And Worker.csprojResolveAssemblyReference.cache
