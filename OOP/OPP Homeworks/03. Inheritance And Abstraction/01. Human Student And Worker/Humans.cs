@@ -15,9 +15,9 @@ namespace _01.Human_Student_And_Worker
                 new Student("Georgi", "Tsankov", "A10004"),
                 new Student("Stoyan", "Georgiev", "A10001"),
                 new Student("Miroslav", "Ganev", "A10007"),
+                new Student("Ivan", "Borisov", "A10006"),
                 new Student("Gergana", "Vasileva", "A10009"),
                 new Student("Stanimira", "Nikolova", "A10002"),
-                new Student("Ivan", "Borisov", "A10006"),
                 new Student("Ignat", "Malenov", "A10005"),
                 new Student("Hristina", "Marinova", "A10008")
             };
