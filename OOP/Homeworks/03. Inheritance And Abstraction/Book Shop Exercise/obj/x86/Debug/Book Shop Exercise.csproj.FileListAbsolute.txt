@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\Book Shop Exercise\bin\Debug\Book Shop Exercise.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\Book Shop Exercise\bin\Debug\Book Shop Exercise.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\Book Shop Exercise\obj\x86\Debug\Book Shop Exercise.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\Book Shop Exercise\obj\x86\Debug\Book Shop Exercise.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\03. Inheritance And Abstraction\Book Shop Exercise\obj\x86\Debug\Book Shop Exercise.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\03. Inheritance And Abstraction\Book Shop Exercise\obj\x86\Debug\Book Shop Exercise.pdb

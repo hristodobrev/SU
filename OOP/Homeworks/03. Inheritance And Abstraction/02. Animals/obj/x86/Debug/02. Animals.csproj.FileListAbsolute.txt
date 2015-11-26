@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\02. Animals\bin\Debug\_02.Animals.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\02. Animals\bin\Debug\_02.Animals.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\02. Animals\obj\x86\Debug\_02.Animals.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\02. Animals\obj\x86\Debug\_02.Animals.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\03. Inheritance And Abstraction\02. Animals\obj\x86\Debug\02. Animals.csprojResolveAssemblyReference.cache
