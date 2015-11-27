@@ -3,3 +3,8 @@ C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Stati
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\05. HTML Dispatcher\obj\x86\Debug\_05.HTML_Dispatcher.exe
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\05. HTML Dispatcher\obj\x86\Debug\_05.HTML_Dispatcher.pdb
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\05. HTML Dispatcher\obj\x86\Debug\05. HTML Dispatcher.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\05. HTML Dispatcher\obj\x86\Debug\_05.HTML_Dispatcher.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\05. HTML Dispatcher\obj\x86\Debug\_05.HTML_Dispatcher.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\05. HTML Dispatcher\bin\Debug\_05.HTML_Dispatcher.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\05. HTML Dispatcher\bin\Debug\_05.HTML_Dispatcher.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\05. HTML Dispatcher\obj\x86\Debug\05. HTML Dispatcher.csprojResolveAssemblyReference.cache

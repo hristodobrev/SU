@@ -1,0 +1,9 @@
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\bin\Debug\Character Moves Test.exe.config
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\bin\Debug\Character Moves Test.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\bin\Debug\Character Moves Test.pdb
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\obj\Debug\Character_Moves_Test.Form1.resources
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\obj\Debug\Character_Moves_Test.Properties.Resources.resources
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\obj\Debug\Character Moves Test.csproj.GenerateResource.Cache
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\obj\Debug\Character Moves Test.exe
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\obj\Debug\Character Moves Test.pdb
+D:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\Character Moves Test\obj\Debug\Character Moves Test.csprojResolveAssemblyReference.cache

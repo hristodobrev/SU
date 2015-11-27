@@ -10,9 +10,10 @@ namespace _05.HTML_Dispatcher
             ElementBuilder div = new ElementBuilder("div");
             div.AddAttribute("id", "page");
             div.AddAttribute("class", "big");
-            div.AddAttribute("style", "background-color: #0f0; border-bottom: 5px solid black; margin: auto; width: 200px");
+            div.AddAttribute("style", "background-color: pink; border-bottom: 5px solid black; margin: auto; width: 200px");
             div.AddContent("<p>Hello</p>");
             Console.WriteLine(div * 2);
+
 
             string image = HTMLDispatcher.CreateImage("/cat.png", "cat", "Cat");
             string url = HTMLDispatcher.CreateURL("http://www.someurl.com", "some url", "some text");
