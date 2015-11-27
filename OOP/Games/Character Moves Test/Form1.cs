@@ -13,10 +13,10 @@ namespace Character_Moves_Test
     public partial class Form1 : Form
     {
         private bool left, right, up, down;
-        private string leftDir = "D:/Others/Advanced-CSharp/Advanced C# Homeworks/Trash/Games/Character Moves Test/Resources/CharL.gif";
-        private string rightDir = "D:/Others/Advanced-CSharp/Advanced C# Homeworks/Trash/Games/Character Moves Test/Resources/CharRight.gif";
-        private string upDir = "D:/Others/Advanced-CSharp/Advanced C# Homeworks/Trash/Games/Character Moves Test/Resources/CharUp.gif";
-        private string downDir = "D:/Others/Advanced-CSharp/Advanced C# Homeworks/Trash/Games/Character Moves Test/Resources/CharDown.gif";
+        private string leftDir = "../../Resources/CharL.gif";
+        private string rightDir = "../../Resources/CharRight.gif";
+        private string upDir = "../../Resources/CharUp.gif";
+        private string downDir = "../../Resources/CharDown.gif";
         private bool leftSet, rightSet, upSet, downSet;
 
         public Form1()
