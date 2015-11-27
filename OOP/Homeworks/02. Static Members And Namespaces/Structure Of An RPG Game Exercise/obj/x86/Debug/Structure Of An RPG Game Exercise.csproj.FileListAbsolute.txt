@@ -2,3 +2,5 @@ C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Stati
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\Structure Of An RPG Game Exercise\bin\Debug\Structure Of An RPG Game Exercise.pdb
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\Structure Of An RPG Game Exercise\obj\x86\Debug\Structure Of An RPG Game Exercise.exe
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\Structure Of An RPG Game Exercise\obj\x86\Debug\Structure Of An RPG Game Exercise.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\Structure Of An RPG Game Exercise\obj\x86\Debug\Structure Of An RPG Game Exercise.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\Structure Of An RPG Game Exercise\obj\x86\Debug\Structure Of An RPG Game Exercise.pdb

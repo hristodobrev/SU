@@ -2,3 +2,8 @@ C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Stati
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\06. BitArray\bin\Debug\_06.BitArray.pdb
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\06. BitArray\obj\x86\Debug\_06.BitArray.exe
 C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\OPP Homeworks\02. Static Members And Namespaces\06. BitArray\obj\x86\Debug\_06.BitArray.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\06. BitArray\obj\x86\Debug\_06.BitArray.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\06. BitArray\obj\x86\Debug\_06.BitArray.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\06. BitArray\bin\Debug\_06.BitArray.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\06. BitArray\bin\Debug\_06.BitArray.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\OOP\Homeworks\02. Static Members And Namespaces\06. BitArray\obj\x86\Debug\06. BitArray.csprojResolveAssemblyReference.cache

@@ -6,8 +6,8 @@ namespace _06.BitArray
     {
         static void Main()
         {
-            BitArray num = new BitArray(8);
-            num[7] = 1;
+            BitArray num = new BitArray(99999);
+            num[99999] = 1;
             Console.WriteLine(num);
             Console.WriteLine(num[6]);
         }
