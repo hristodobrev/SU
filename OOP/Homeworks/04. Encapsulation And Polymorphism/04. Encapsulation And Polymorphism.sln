@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Shapes", "01. Shapes\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Bank Of Kurtovo Konare", "02. Bank Of Kurtovo Konare\02. Bank Of Kurtovo Konare.csproj", "{3C3B5736-FA31-42F7-BBA1-AF1250075F02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. TheSlum", "D:\Others\OOP\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\03. TheSlum.csproj", "{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. TheSlum", "03. TheSlum-Skeleton\03. TheSlum.csproj", "{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
