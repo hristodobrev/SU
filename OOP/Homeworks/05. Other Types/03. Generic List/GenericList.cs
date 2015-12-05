@@ -4,6 +4,7 @@
     using System.Linq;
     using System.Text;
 
+    [VersionAttribute("2.11")] 
     public class GenericList<T>
         where T : IComparable<T>
     {
