@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PowerPoint Slide</title>
+	<style>
+		body{
+			font-family: Calibri;
+		}
+
+		span{
+			color: #f6d18e;
+		}
+
+		h1{
+			/*color: #f0a22e;*/
+			color: #f6d18e;
+			margin: 0px;
+		}
+
+		ul{
+			color: #fff;
+			font-size: 32px;
+		}
+
+		.slider{
+			background-image: url(pictures/bg.jpg);
+			background-size: 1000px 550px;
+			width: 960px;
+			height: 510px;
+			margin: auto;
+			padding: 20px;
+		}
+
+		.hidden{
+			background-color: #333;
+			opacity: 0.8;
+			list-style-type: none;
+			border: 1px #fff solid;
+		}
+
+		.hidden li{
+			color: #f6f3af;
+		}
+	</style>
+</head>
+<body>
+	<div class="slider">
+		<h1>Headings and Paragraphs</h1>
+		<ul>
+			<li>
+				Heading Tags: <span>&lt;h1&gt;</span> - <span>&lt;h6&gt;</span>
+				<ul class="hidden">
+					<li>&lt;h1&gt;Heading 1&lt;/h1&gt;</li>
+					<li>&lt;h2&gt;Sub heading 2&lt;/h2&gt;</li>
+					<li>&lt;h3&gt;Sub heading 3&lt;/h3&gt;</li>
+				</ul>
+			</li>
+			<li>
+				Paragraph Tags: <span>&lt;p&gt;</span>
+				<ul class="hidden">
+					<li>
+						&lt;p&gt;This is my first paragraph&lt;/p&gt;
+					</li>
+					<li>
+						&lt;p&gt;This is my second paragraph&lt;/p&gt;
+					</li>
+				</ul>
+			</li>
+			<li>
+				Sections: <span>&lt;div&gt;</span> and <span>&lt;span&gt;</span>
+				<ul class="hidden">
+					<li>&lt;div style="background: skyblue;"&gt;</li>
+					<li>&nbsp;This is a div</li>
+					<li>&lt;/div&gt;</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</body>
+</html>
