@@ -1,0 +1,51 @@
+body {
+	font-style: italic;
+	font-family: Arial;
+	background-color: pink;
+}
+
+div {
+	width: 200px;
+}
+
+div#left {
+	float: left;
+}
+
+div#right {
+	float: right;
+}
+
+label {
+	display: block;
+}
+
+input {
+	display: block;
+	width: 100%;
+}
+
+input[type=number] {
+	width: 30%;
+	float: left;
+}
+
+span {
+	float: left;
+}
+
+input#left {
+	float: left;
+}
+
+input#center {
+	margin-left: 4px;
+}
+
+input#right {
+	float: right;
+}
+
+label#spin span {
+	width: 33%;
+}

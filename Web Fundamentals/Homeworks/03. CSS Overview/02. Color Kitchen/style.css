@@ -1,0 +1,178 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* CSS STYLE STARTS HERE */
+
+body {
+	background: url(colorful_dots_on_black.jpg);
+	font-family: Arial;
+}
+
+body>header {
+	font-size: 30pt;
+	font-weight: bold;
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	color: yellow;
+	background-color: green;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+body>header:before {
+	background-color: red;
+}
+
+a {
+	color: gray;
+	font-style: italic;
+}
+
+aside {
+	padding: 15px;
+	float: left;
+	background-color: rgba(255, 255, 255, 0.9);
+	border-radius: 20px;
+	margin-left: 10px;
+	width: 17%;
+}
+
+aside header {
+	font-size: 18pt;
+	text-decoration: underline;
+	margin-bottom: 10px;
+}
+
+aside ul li {
+	padding: 5px;
+	border-radius: 5px;
+}
+
+aside ul li:before {
+	content: url(http://www.advancesecuritysolutions.co.uk/wp-content/uploads/2012/06/tick.png);
+	margin-right: 5px;
+}
+
+li a {
+	text-decoration: none;
+	font-style: normal;
+	color: black;
+}
+
+li a:visited {
+	color: gray;
+}
+
+section {
+	width: 75%;
+	float: right;
+	margin-right: 30px;
+}
+
+section>article {
+	background-color: rgba(255, 255, 255, 0.9);
+	border-radius: 20px;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+
+section>article>header {
+	border-radius: 10px;
+	font-size: 20pt;
+	font-weight: lighter;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+#webColors,
+aside ul li:nth-child(1):hover {
+	background-color: red;
+	color: white;
+}
+
+#webSafeColors,
+aside ul li:nth-child(2):hover {
+	background-color: orange;
+}
+
+#RGB,
+aside ul li:nth-child(3):hover {
+	background-color: yellow;
+}
+
+#RGBA,
+aside ul li:nth-child(4):hover {
+	background-color: green;
+	color: white;
+}
+
+section>article:nth-child(5)>header,
+aside ul li:nth-child(5):hover {
+	background-color: blue;
+	color: white;
+}
+
+section>article:nth-child(6)>header,
+aside ul li:nth-child(6):hover {
+	background-color: purple;
+	color: white;
+}
+
+section>article>div:first-letter,
+section>article>span:first-letter {
+	font-size: 40pt;
+}
+
+section>article>div:first-line,
+section>article>span:first-line {
+	font-style: italic;
+}
+
+section>article>div,
+section>article>span {
+	line-height: 20px;
+	margin-bottom: 10px;
+}

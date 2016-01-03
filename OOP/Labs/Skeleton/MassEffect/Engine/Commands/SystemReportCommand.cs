@@ -24,14 +24,14 @@
 
             StringBuilder output = new StringBuilder();
             output.AppendLine("Intact ships:");
-            output.AppendLine(intactShips.Any() ? string.Join("\n", intactShips) : "N/A");
+            output.AppendLine(intactShips.Count() != 0 ? string.Join("\n", intactShips) : "N/A");
 
             IEnumerable<IStarship> destroyedShips = this.GameEngine.Starships
                 .Where(s => s.Health <= 0)
                 .OrderBy(s => s.Name);
 
             output.AppendLine("Destroyed ships:");
-            output.AppendLine(destroyedShips.Any() ? string.Join("\n", destroyedShips) : "N/A");
+            output.AppendLine(destroyedShips.Count() != 0 ? string.Join("\n", destroyedShips) : "N/A");
 
             Console.WriteLine(output.ToString());
         }

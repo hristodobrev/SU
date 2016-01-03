@@ -4,6 +4,7 @@
     using Interfaces;
     using GameObjects.Projectiles;
     using GameObjects.Locations;
+    using System;
 
     public class Frigate : StarShip
     {
@@ -21,7 +22,7 @@
 
             if (this.Health > 0)
             {
-                output.AppendLine(string.Format("-Projectiles fired: {0}", this.projectilesFired));
+                output.AppendLine(string.Format("{0}-Projectiles fired: {1}", Environment.NewLine, this.projectilesFired));
             }
 
             return output.ToString();

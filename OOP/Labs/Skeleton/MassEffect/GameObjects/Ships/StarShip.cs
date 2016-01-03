@@ -77,7 +77,15 @@
                 output.AppendLine(string.Format("-Shields: {0}", this.Shields));
                 output.AppendLine(string.Format("-Damage: {0}", this.Damage));
                 output.AppendLine(string.Format("-Fuel: {0:F1}", this.Fuel));
-                output.AppendLine(string.Format("-Enhancements: {0}", this.Enhancements.Any() ? string.Join(", ", this.Enhancements.Select(e => e.Name)) : "N/A"));
+                output.Append("-Enhancements: ");
+                if (this.Enhancements.Count() != 0)
+                {
+                    output.Append(string.Join(", ", this.Enhancements.Select(e => e.Name)));
+                }
+                else
+                {
+                    output.Append("N/A");
+                }
             }
 
             return output.ToString();

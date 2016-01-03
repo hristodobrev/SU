@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>HTML Form</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<form action="">
+		<h2>Step 1: Your details</h2>
+		<label>
+			<span>Name</span>
+			<input type="text" placeholder="First and last name" />
+		</label>
+		<label>
+			<span>Email</span>
+			<input type="text" placeholder="example@domain.com" />
+		</label>
+		<label>
+			<span>Phone</span>
+			<input type="text" placeholder="eg +447500000000" />
+		</label>
+		<h2>Step 2: Delivery address</h2>
+		<label>
+			<span>Address</span>
+			<textarea name="" id="" cols="20" rows="5"></textarea>
+		</label>
+		<label>
+			<span>Post code</span>
+			<input type="text" />
+		</label>
+		<label>
+			<span>Country</span>
+			<input type="text" />
+		</label>
+		<h2>Step 3: Card details</h2>
+		<label>
+			<p>Card type</p>
+			<p>
+				<div class="radio">
+					<input type="radio" name="card"/>
+					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Visa.svg/175px-Visa.svg.png" alt="visa">
+					VISA
+				</div>
+				<div class="radio">
+					<input type="radio" name="card"/>
+					<img src="http://www.ugal.com/public/2407/2901/amex-logo.jpg" alt="amex">	
+					AmEx
+				</div>
+				<div class="radio">
+					<input type="radio" name="card"/>
+					<img src="http://seeklogo.com/images/M/MasterCard-logo-4C5D228602-seeklogo.com.gif" alt="mastercard">
+					Mastercard
+				</div>
+			</p>
+		</label>
+		<label>
+			<span>Card number</span>
+			<input type="text" />
+		</label>
+		<label>
+			<span>Security code</span>
+			<input type="text" />
+		</label>
+		<label>
+			<span>Name on card</span>
+			<input type="text" placeholder="exact name as on the card" />
+		</label>
+		<button>BUY IT!</button>
+	</form>
+</body>
+</html>

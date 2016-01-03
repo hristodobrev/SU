@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Simple Form</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+		<h2>Enter the system</h2>
+		<p id="title">It is necessary to login in Your account in order to sign in for a course.</p>
+	<form action="register.php" method="post" id="reg">
+		<span id="register-title">are you new? <span>register</span></span>
+		<input name="name" placeholder="User name" type="text">
+		<input name="email" placeholder="Email" type="email">
+		<input name="password" placeholder="Password" type="password">
+		<input name="confirmPassword" placeholder="Confirm Password" type="password">
+		<input type="submit" value="Register">
+	</form>
+	<form action="login.php" method="post" id="log">
+		<span id="login-title">Already a student? <span>login</span></span>
+		<input name="name" placeholder="User name" type="text">
+		<input name="password" placeholder="Password" type="password">
+		<label>
+			<input type="checkbox">
+			<sup>Remember me?</sup>
+		</label>
+		<input type="submit" value="Login">
+		<p>
+			<a href="#"><sub>Forgot Password</sub></a>
+		</p>
+	</form>
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿body {
+	background: red;
+    background: linear-gradient(#777, #fff);
+    padding: 0;
+    margin: 0;
+    font-family: Verdana;
+}
+
+#wrapper {
+	background-color: #fff;
+	border: 2px solid #aaa;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 0;
+	padding: 10px;
+}
+
+body #wrapper header {
+	border: 2px solid #aaa;
+}
+
+body>#wrapper>header>h1 {
+	color: #aaa;
+}
+
+ul {
+	width: 100%;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+	display: flex;
+	flex-direction: row;
+}
+
+body #wrapper header h1 {
+	text-align: center;
+}

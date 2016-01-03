@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Flight Order</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<form action="search.php" method="get">
+		<h1>FLIGHT ORDER</h1>
+		<div id="left">
+			<label>
+				<span>From</span>
+				<input type="text">
+			</label>
+			<label>
+				<span>Departure Date</span>
+				<input type="date">
+			</label>
+			<label>
+				<span>Return Date</span>
+				<input type="date">
+			</label>
+			<label id="spin">
+				<span>12+</span>
+				<span>2-12</span>
+				<span>0-2</span>
+				<input id="left" type="number" min="12">
+				<input id="center" type="number" min="2" max="12">
+				<input id="right" type="number" min="0" max="2">
+			</label>
+		</div>
+		<div id="right">
+			<label>
+				<span>To</span>
+				<input type="text">
+			</label>
+			<label>
+				<span>Departure Date</span>
+				<input type="date">
+			</label>
+			<label>
+				<span>Return Date</span>
+				<input type="date">
+			</label>
+		</div>
+	</form>
+</body>
+</html>

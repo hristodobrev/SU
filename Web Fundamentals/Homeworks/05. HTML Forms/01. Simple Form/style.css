@@ -1,0 +1,95 @@
+body {
+	background-color: #eee;
+	font-family: Verdana;
+}
+
+label, a {
+	color: #fff;
+	font-size: 10pt;
+}
+
+a {
+	float: right;
+}
+
+h2 {
+	color: #334576;
+}
+
+p#title {
+	font-size: 10pt;
+	color: #666;
+}
+
+form {
+	display: block;
+	width: 250px;
+	min-height: 215px;
+	padding: 10px;
+	margin: 0;
+}
+
+form>span {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 10pt;
+	display: block;
+	margin-bottom: 10px;
+	color: #666;
+}
+
+span#register-title>span {
+	color: #234465;
+}
+
+span#login-title {
+	color: #fff;
+}
+
+form>input {
+	display: block;
+	width: 240px;
+	height: 25px;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+
+form#reg {
+	float: left;
+}
+
+form#log {
+	background-color: #234465;
+	float: left;
+}
+
+input[type=submit] {
+	border: 2px solid #ffa000;
+	background-color: rgba(0, 0, 0, 0);
+	font-weight: bold;
+	font-size: 10pt;
+	width: 100px;
+	height: 30px;
+	float: right;
+	margin-bottom: 0;
+	color: #fff;
+	transition: 0.2s all ease;
+}
+
+input[type=submit]:hover {
+	cursor: pointer;
+	background-color: #ffa000;
+	color: #223465;
+}
+
+input[value=Register] {
+	border-color: #223465;
+	color: #223465;
+	transition: 0.2s all ease;
+}
+
+input[value=Register]:hover {
+	cursor: pointer;
+	background-color: #223465;
+	color: #fff;
+}
