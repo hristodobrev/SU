@@ -2,3 +2,8 @@ D:\Others\Advanced C# Homeworks\Trash\Games\01. Snake Game\bin\Debug\_01.Snake_G
 D:\Others\Advanced C# Homeworks\Trash\Games\01. Snake Game\bin\Debug\_01.Snake_Game.pdb
 D:\Others\Advanced C# Homeworks\Trash\Games\01. Snake Game\obj\x86\Debug\_01.Snake_Game.exe
 D:\Others\Advanced C# Homeworks\Trash\Games\01. Snake Game\obj\x86\Debug\_01.Snake_Game.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\01. Snake Game\obj\x86\Debug\_01.Snake_Game.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\01. Snake Game\obj\x86\Debug\_01.Snake_Game.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\01. Snake Game\bin\Debug\_01.Snake_Game.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\01. Snake Game\bin\Debug\_01.Snake_Game.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\01. Snake Game\obj\x86\Debug\01. Snake Game.csprojResolveAssemblyReference.cache

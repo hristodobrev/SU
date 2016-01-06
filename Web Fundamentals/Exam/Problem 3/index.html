@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="styles/style.css" rel="stylesheet" />
+    <title>Problem 3</title>
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <nav>
+                <ul>
+                    <li id="selected"><img src="images/paraglider-icon.png" alt="Alternate Text" /><a href="">Paragliding</a></li>
+                    <li><img src="images/sky-diver.png" alt="Alternate Text" /><a href="">Skydiving</a></li>
+                    <li><img src="images/climbing.png" alt="Alternate Text" /><a href="">Climbing</a></li>
+                    <li><img src="images/about-us.png" alt="Alternate Text" /><a href="">About Us</a></li>
+                </ul>
+            </nav>
+        </header>
+        <form action="someFile.php">
+            <fieldset>
+                <legend>Personal info</legend>
+                <div class="box">
+                    <img src="images/user1.png" /><input type="text" placeholder="Enter your full name">
+                </div><br>
+                <div class="box">
+                    <img src="images/email.png" /><input type="text" placeholder="Enter a valid e-mail">
+                </div><br><div class="box">
+                    <img src="images/phone.png" /><input type="text" placeholder="Enter a phone number">
+                </div>
+            </fieldset>
+            <fieldset class="right">
+                <legend>Flight info</legend>
+                Are flying for first time?
+                <p>
+                    <input type="radio" name="flying-for-first-time" value="Yes" />Yes
+                    <input type="radio" name="flying-for-first-time" value="No" />No
+                </p>
+                <p>
+                    Choose Destination <br />
+                    <select>
+                        <optgroup label="Bulgaria">
+                            <option>Dobrostan</option>
+                            <option>Sopot</option>
+                            <option>Sofia</option>
+                            <option>Bourgas</option>
+                        </optgroup>
+                        <optgroup label="Rest of the world">
+                            <option>Nepal</option>
+                            <option>Turkey</option>
+                            <option>France</option>
+                        </optgroup>
+                    </select>
+                </p>
+                <p>
+                    Choose Date <br />
+                    <input type="date" />
+                </p>
+            </fieldset>
+            <div class="buttons">
+                <input type="reset" value="Clear">
+                <input type="submit" value="Send">
+            </div>
+        </form>
+    </div>
+</body>
+</html>

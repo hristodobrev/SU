@@ -1,0 +1,148 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: RicksAmericanNF;
+    src: url(../fonts/RicksAmericanNF.ttf);
+}
+
+body {
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #FFA400;
+
+    div#wrapper {
+        width: 960px;
+        margin: 0 auto;
+
+        header {
+            font-family: RicksAmericanNF;
+            text-transform: uppercase;
+
+            h1 {
+                strong {
+
+                    a {
+                        font-size: 60px;
+                        text-decoration: none;
+                        letter-spacing: 21px;
+                        color: #FFA400;
+                    }
+                }
+            }
+
+            nav {
+                ul {
+                    list-style: none;
+
+                    li {
+                        text-align: center;
+                        font-size: 30px;
+                        float: left;
+                        width: 25%;
+
+                        a {
+                            color: #FFA400;
+                            text-decoration: none;
+                            width: 100%;
+                            border-radius: 30px;
+                            padding: 5px 40px;
+                            letter-spacing: 5px;
+                        }
+
+                        a:hover {
+                            color: black;
+                            background-color: #FFA400;
+                        }
+                    }
+                }
+            }
+        }
+
+        div#container {
+            background-color: #3c3c3c;
+            margin-top: 60px;
+
+            aside {
+                width: 35%;
+                float: right;
+                background-color: #3c3c3c;
+                padding-top: 3%;
+
+                div.box {
+                    width: 70%;
+                    margin: 0 auto;
+                    border-radius: 8px;
+                    overflow: hidden;
+                    border: 1px solid #FFA400;
+                    margin-bottom: 5%;
+
+                    img {
+                        width: 100%;
+                    }
+
+                    p {
+                        margin-top: -22px;
+                        text-align: center;
+                        font-weight: bold;
+                        background-color: rgba(0,0,0,0.5);
+                    }
+                }
+                div.box:hover p{
+                    background-color: #FFA400;
+                    color: black;
+                }
+
+                div.box:hover{
+                    cursor: pointer;
+                }
+            }
+
+            section {
+                width: 65%;
+                background-color: #3c3c3c;
+                padding-top: 10px;
+
+                article {
+                    padding-bottom: 15px;
+                    padding-left: 5%;
+
+                    h2 {
+                        font-family: Arial;
+                        text-transform: uppercase;
+                        font-size: 23px;
+                        text-shadow: 2px 2px #000;
+                        text-align: center;
+                    }
+
+                    img {
+                        width: 50%;
+                    }
+
+                    p {
+                        width: 49%;
+                        float: right;
+                        padding-left: 1%;
+                        text-align: justify;
+                        text-shadow: 2px 2px #000;
+
+                        a {
+                            color: #FFA400;
+                            text-decoration: none;
+                            font-style: italic;
+                            font-weight: bold;
+                        }
+                    }
+                }
+            }
+        }
+
+        footer {
+            text-align: center;
+            padding: 5px 0 10px 0;
+        }
+    }
+}
