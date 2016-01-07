@@ -44,7 +44,7 @@ body div#wrapper table tr td:nth-child(2) {
 }
 
 body div#wrapper p {
-    height: 30px;
+    min-height: 30px;
     line-height: 30px;
     border-top: 1px solid #d3d3d3;
     border-bottom: 1px solid #d3d3d3;
@@ -53,6 +53,7 @@ body div#wrapper p {
 
 body div#wrapper button {
     margin-top: 20px;
+    min-width: 60px;
     color: #000;
     text-decoration: none;
     padding: 5px;
