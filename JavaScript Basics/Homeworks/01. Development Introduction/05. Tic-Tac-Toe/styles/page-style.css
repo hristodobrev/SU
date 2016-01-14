@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+body div#wrapper {
+    width: 200px;
+    border: 1px solid #000;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+body div#wrapper p {
+    min-height: 30px;
+    line-height: 30px;
+    border-top: 1px solid #d3d3d3;
+    border-bottom: 1px solid #d3d3d3;
+    margin-top: 20px;
+}
+
+body div#wrapper button {
+    margin-top: 20px;
+    min-width: 60px;
+    color: #000;
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid #d3d3d3;
+    background: white;
+    cursor: pointer;
+}
+
+body div#wrapper button:hover {
+    background-color: orange;
+    color: white;
+}

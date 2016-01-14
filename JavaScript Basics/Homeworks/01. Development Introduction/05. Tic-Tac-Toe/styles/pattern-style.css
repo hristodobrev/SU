@@ -1,0 +1,24 @@
+table {
+    margin: 0 auto;
+}
+
+table tr:first-child td {
+    border-top: 1px solid #000;
+}
+
+table tr td {
+    width: 45px;
+    height: 45px;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    font-size: 30px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+table tr td:first-child {
+    border-left: 1px solid #000;
+}

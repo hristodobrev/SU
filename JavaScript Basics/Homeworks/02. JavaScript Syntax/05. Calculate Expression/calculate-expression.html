@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculate Expression</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="js/calc-expression.js"></script>
+</head>
+<body>
+<form>
+    <input type="text" id="expression" value="5-9+158/9*12596-1" pattern="(\d+(\.(\d+)){0,1}[\/*\-\+]*)+" title="Please enter only digits and mathematical operators." /><br>
+    <input type="button" value="Evaluate Result" onclick="calcExpression()"/><br>
+    <p id="result">
+
+    </p>
+</form>
+</body>
+</html>

@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Consolas;
+}
+
+form {
+    width: 140px;
+    padding: 30px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 0 0 5px 1px #d3d3d3;
+}
+
+form input {
+    width: 140px;
+    margin-bottom: 20px;
+}
+
+form p {
+    min-height: 20px;
+    line-height: 20px;
+}

@@ -2,35 +2,41 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tic-Tac-Toe Game</title>
-    <script src="script/tic-tac-toe-game.js"></script>
-    <script src="script/difficulty.js"></script>
-    <link rel="stylesheet" href="styles/table-style.css">
+    <title>Puzzle Game</title>
+    <script src="script/puzzle.js"></script>
     <link rel="stylesheet" href="styles/page-style.css">
+    <link rel="stylesheet" href="styles/pattern-style.css">
 </head>
-<body>
+<body onload="initialize()">
 <div id="wrapper">
     <table cellspacing="0">
         <tr>
             <td id="0" onclick="cellClick(0)"></td>
             <td id="1" onclick="cellClick(1)"></td>
             <td id="2" onclick="cellClick(2)"></td>
+            <td id="3" onclick="cellClick(3)"></td>
         </tr>
         <tr>
-            <td id="3" onclick="cellClick(3)"></td>
             <td id="4" onclick="cellClick(4)"></td>
             <td id="5" onclick="cellClick(5)"></td>
-        </tr>
-        <tr>
             <td id="6" onclick="cellClick(6)"></td>
             <td id="7" onclick="cellClick(7)"></td>
+        </tr>
+        <tr>
             <td id="8" onclick="cellClick(8)"></td>
+            <td id="9" onclick="cellClick(9)"></td>
+            <td id="10" onclick="cellClick(10)"></td>
+            <td id="11" onclick="cellClick(11)"></td>
+        </tr>
+        <tr>
+            <td id="12" onclick="cellClick(12)"></td>
+            <td id="13" onclick="cellClick(13)"></td>
+            <td id="14" onclick="cellClick(14)"></td>
+            <td id="15" onclick="cellClick(15)"></td>
         </tr>
     </table>
     <p id="log">This is the log.</p>
-    <button onclick="clearTable()">Reset</button>
-    <button onclick="changeDifficulty()" id="difficultyButton">Medium</button>
-    <p id="clock"></p>
+    <button onclick="initialize()">Reset</button>
 </div>
 </body>
 </html>

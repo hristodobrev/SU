@@ -38,8 +38,6 @@ function getIndex() {
     var firstCol = getFilledCellsByCol(0);
     var secondCol = getFilledCellsByCol(1);
     var thirdCol = getFilledCellsByCol(2);
-    var firstDiagonal = getFIlledCellsByDiagonals(0);
-    var secondDIagonal = getFIlledCellsByDiagonals(1);
 
     if (firstRow > 1 && index == -1) {
         index = getEmptyCellsByRowId(0);
@@ -58,89 +56,6 @@ function getIndex() {
     }
     if (thirdCol > 1 && index == -1) {
         index = getEmptyCellsByColId(2);
-    }
-    if (firstDiagonal > 1 && index == -1)
-    {
-        index = getEmptyCellsByDiagonals(0);
-    }
-    if (secondDIagonal > 1 && index == -1) {
-        index = getEmptyCellsByDiagonals(1);
-    }
-
-    return index;
-}
-
-function checkWinCell() {
-    var index = -1;
-
-    var filledCells = getOpponentFilledCells();
-
-    var checkTopLeft =
-        filledCells.contains(0) ||
-        filledCells.contains(1) ||
-        filledCells.contains(2) ||
-        filledCells.contains(3) ||
-        filledCells.contains(6);
-
-    if (checkTopLeft) {
-
-    }
-}
-
-function getOpponentFilledCells() {
-    var filledCells = [];
-
-    for (var cellId = 0; cellId < 9; cellId++) {
-        if (document.getElementById(cellId).innerHTML == "O") {
-            filledCells.push(cellId);
-        }
-    }
-
-    return filledCells;
-}
-
-function getFIlledCellsByDiagonals(id) {
-    var count = 0;
-
-    if (id == 0) {
-        for (var cellId = 0; cellId <= 8; cellId += 4) {
-            var cell = document.getElementById(cellId);
-            if (cell.innerHTML == "X") {
-                count++;
-            }
-        }
-    }
-    else {
-        for (var cellId = 2; cellId <= 6; cellId += 2) {
-            var cell = document.getElementById(cellId);
-            if (cell.innerHTML == "X") {
-                count++;
-            }
-        }
-    }
-
-    // 0, 4, 8
-    // 2, 4, 6
-
-    return count;
-}
-
-function getEmptyCellsByDiagonals(id) {
-    var index = -1;
-
-    if (id == 0) {
-        for (var cellId = 0; cellId <= 8; cellId += 4) {
-            if(!checkCell(cellId)) {
-                index = cellId;
-            }
-        }
-    }
-    else {
-        for (var cellId = 2; cellId <= 6; cellId += 2) {
-            if(!checkCell(cellId)) {
-                index = cellId;
-            }
-        }
     }
 
     return index;
@@ -257,11 +172,9 @@ function checkSequence() {
         }
         else if (vertical){
             paintCells(1, 4, 7);
-        }
-        else {
+        } else {
             paintCells(3, 4, 5);
         }
-
         return true;
     }
 

@@ -1,8 +1,11 @@
+var counter = 0;
+
 function updateTime() {
     var time = new Date();
     var hours = time.getHours();
-    var minutes = time.getMinutes()
+    var minutes = time.getMinutes();
     var seconds = time.getSeconds();
+
     if (hours < 10) {
         hours = "0" + hours;
     }
@@ -12,6 +15,7 @@ function updateTime() {
     if (seconds < 10) {
         seconds = "0" + seconds;
     }
+
     document.getElementById("clock").innerHTML = hours + ":" + minutes + ":" + seconds;
 }
 
