@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="js/slider-animation.js"></script>
+    <title>Slider Animation</title>
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Gallery</a></li>
+                    <li><a href="#">Shop</a></li>
+                    <li><a href="#">Contacts</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <div id="slider">
+                <div class="image-container"><img src="images/2.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/3.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/1.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/3.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/1.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/4.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/2.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/3.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/1.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/5.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/4.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/5.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/4.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/2.jpg" alt="Planet" onclick="showImage(this)"></div>
+                <div class="image-container"><img src="images/4.jpg" alt="Planet" onclick="showImage(this)"></div>
+            </div>
+            <div id="largeImgPanel" onclick="this.style.display='none'">
+            <img id="largeImg"
+                 style="height:100%; margin:0; padding:0;" />
+        </div>
+        </main>
+    </div>
+</body>
+</html>

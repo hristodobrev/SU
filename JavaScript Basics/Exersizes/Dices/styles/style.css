@@ -1,0 +1,19 @@
+body {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+canvas {
+    border: 1px solid #daa;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+#scrolling-text {
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}

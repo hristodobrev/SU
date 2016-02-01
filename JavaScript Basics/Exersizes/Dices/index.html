@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dices</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="js/dices.js"></script>
+    <script src="js/side-scrolling-text.js"></script>
+</head>
+<body>
+    <canvas id="first-dice" width="60" height="60">
+        Your browser do not support canvas.
+    </canvas>
+    <canvas id="second-dice" width="60" height="60">
+        Your browser do not support canvas.
+    </canvas>
+    <p id="log"></p>
+<button onclick="rollDices()">Roll Dices</button>
+<button onclick="scrollText()">Scroll Text</button>
+    <marquee behavior="scroll" scrollamount="10" direction="left"
+             onmouseover="this.stop();" onmouseout="this.start();">
+        I am rolling from Left to Right(HACKED)
+    </marquee>
+<span id="scrolling-text">Lorem ipsum ala bala blablabalb i'm rolliiiiin left and right, not up and down, some other text ablablababa</span>
+</body>
+</html>
