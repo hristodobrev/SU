@@ -1,0 +1,31 @@
+﻿body {
+    font-family: Arial;
+
+    header {
+        background: #8cc675;
+        border-left: 1px solid #808080;
+    }
+
+    main {
+        background: #d3d3d3;
+        border: 1px solid #000;
+
+        ul {
+            background: #ff6a00;
+
+            li {
+                ul {
+                    display: none;
+                }
+            }
+
+            li:hover {
+                background: #cc3700;
+
+                ul {
+                    display: block;
+                }
+            }
+        }
+    }
+}

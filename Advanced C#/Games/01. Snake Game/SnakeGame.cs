@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Linq;
-using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
+
+using _01.Snake_Game;
 
 class SnakeGame
 {

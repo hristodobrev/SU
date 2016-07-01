@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8A1CFAFD-8229-4F3D-A772-51F17148832A}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Military</RootNamespace>
+    <AssemblyName>Military</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\CommandExecutor.cs" />
+    <Compile Include="Core\Data\Database.cs" />
+    <Compile Include="Core\Engine.cs" />
+    <Compile Include="Exceptions\AlreadyExistingElementException.cs" />
+    <Compile Include="Exceptions\InconsistentEquipmentException.cs" />
+    <Compile Include="Exceptions\InvalidCommandException.cs" />
+    <Compile Include="Exceptions\NotExistingElementException.cs" />
+    <Compile Include="Interfaces\IBattleUnit.cs" />
+    <Compile Include="Interfaces\ICommandExecutor.cs" />
+    <Compile Include="Interfaces\IDatabase.cs" />
+    <Compile Include="Interfaces\IFightingUnit.cs" />
+    <Compile Include="Interfaces\IHealingUnit.cs" />
+    <Compile Include="Interfaces\IPlace.cs" />
+    <Compile Include="Interfaces\IReader.cs" />
+    <Compile Include="Interfaces\IWriter.cs" />
+    <Compile Include="Models\Battle Units\Aircraft.cs" />
+    <Compile Include="Models\Battle Units\BattleUnit.cs" />
+    <Compile Include="Models\Equipments\Eqiupment.cs" />
+    <Compile Include="Models\Equipments\Repairing Kits\RepairingKit.cs" />
+    <Compile Include="Models\Equipments\Shileds\Shield.cs" />
+    <Compile Include="Models\Equipments\Weapons\Laser\LaserCannon.cs" />
+    <Compile Include="Models\Equipments\Weapons\Weapon.cs" />
+    <Compile Include="Models\Fighting Utilities\FightInfo.cs" />
+    <Compile Include="Models\Places\Place.cs" />
+    <Compile Include="Models\Places\PlaceType.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\ConsoleReader.cs" />
+    <Compile Include="UI\ConsoleWriter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\Battle Units\Aircrafts\" />
+    <Folder Include="Models\Battle Units\Ships\" />
+    <Folder Include="Models\Battle Units\Vehicles\" />
+    <Folder Include="Models\Equipments\Shileds\Firearms\" />
+    <Folder Include="Models\Equipments\Shileds\Laser\" />
+    <Folder Include="Models\Equipments\Shileds\Plasma\" />
+    <Folder Include="Models\Equipments\Weapons\Firearms\" />
+    <Folder Include="Models\Equipments\Weapons\Plasma\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

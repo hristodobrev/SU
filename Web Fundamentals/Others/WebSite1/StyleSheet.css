@@ -1,0 +1,31 @@
+﻿body {
+  font-family: Arial;
+}
+
+body header {
+  background: #8cc675;
+  border-left: 1px solid #808080;
+}
+
+body main {
+  background: #d3d3d3;
+  border: 1px solid #000;
+}
+
+body main ul {
+  background: #ff6a00;
+}
+
+body main ul li ul {
+  display: none;
+}
+
+body main ul li:hover {
+  background: #cc3700;
+}
+
+body main ul li:hover ul {
+  display: block;
+}
+
+/*# sourceMappingURL=StyleSheet.css.map */

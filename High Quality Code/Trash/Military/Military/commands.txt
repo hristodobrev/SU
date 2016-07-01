@@ -1,0 +1,9 @@
+Establish [place name] [capacity] [place type]
+Create [BattleUnit] [name] [health]
+Create Weapon [name] [damage] / [carrier] (Optional)
+Create Shield [name] [armor] / [carrier] (Optional)
+Create RepairingKit [name] [healing points] / [carrier] (Optional)
+Equip [carrier] [equipment name]
+Attack [attacking battle unit name] [attacked battle unit name]
+Info [unit name, place name, equipment name](optional)
+End

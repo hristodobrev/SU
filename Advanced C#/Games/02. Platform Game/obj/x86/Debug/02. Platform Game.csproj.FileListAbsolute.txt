@@ -5,3 +5,11 @@ E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\ob
 E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\obj\x86\Debug\02. Platform Game.csproj.GenerateResource.Cache
 E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.exe
 E:\Others\Advanced-CSharp\Advanced C# Homeworks\Trash\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\02. Platform Game\bin\Debug\_02.Platform_Game.exe
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\02. Platform Game\bin\Debug\_02.Platform_Game.pdb
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\02. Platform Game\obj\x86\Debug\02. Platform Game.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\02. Platform Game\obj\x86\Debug\_02.Platform_Game.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\Software-University\Advanced C#\Games\02. Platform Game\obj\x86\Debug\02. Platform Game.csproj.GenerateResource.Cache

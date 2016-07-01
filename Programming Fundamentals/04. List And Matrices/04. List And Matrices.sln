@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{8242C953-58ED-4740-9965-8876723CCF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Remove Negatives And Reverse", "01. Remove Negatives And Reverse\01. Remove Negatives And Reverse.csproj", "{B44BBBBD-00D1-4C2F-89EC-2416A3C99D25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{3E1025EB-E558-4E8B-8E74-BB0392356627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Map Sequence Of Equal Elements", "01. Map Sequence Of Equal Elements\01. Map Sequence Of Equal Elements.csproj", "{2AF84B1C-E361-4EBA-8903-399F599E3904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Largest Increasing Subsequence", "09. Largest Increasing Subsequence\09. Largest Increasing Subsequence.csproj", "{024FED92-4D35-453B-B8AB-B60AA78A1D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44BBBBD-00D1-4C2F-89EC-2416A3C99D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44BBBBD-00D1-4C2F-89EC-2416A3C99D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44BBBBD-00D1-4C2F-89EC-2416A3C99D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44BBBBD-00D1-4C2F-89EC-2416A3C99D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF84B1C-E361-4EBA-8903-399F599E3904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF84B1C-E361-4EBA-8903-399F599E3904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF84B1C-E361-4EBA-8903-399F599E3904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF84B1C-E361-4EBA-8903-399F599E3904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024FED92-4D35-453B-B8AB-B60AA78A1D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024FED92-4D35-453B-B8AB-B60AA78A1D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024FED92-4D35-453B-B8AB-B60AA78A1D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024FED92-4D35-453B-B8AB-B60AA78A1D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B44BBBBD-00D1-4C2F-89EC-2416A3C99D25} = {8242C953-58ED-4740-9965-8876723CCF57}
+		{2AF84B1C-E361-4EBA-8903-399F599E3904} = {3E1025EB-E558-4E8B-8E74-BB0392356627}
+		{024FED92-4D35-453B-B8AB-B60AA78A1D4C} = {3E1025EB-E558-4E8B-8E74-BB0392356627}
+	EndGlobalSection
+EndGlobal
