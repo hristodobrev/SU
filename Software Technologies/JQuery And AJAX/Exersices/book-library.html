@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Library</title>
+    <link rel="stylesheet" href="library.css">
+    <script src="../scripts/jquery-3.0.0.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1><a href="#">Welcome to the book library!</a></h1>
+    </header>
+    <div id="wrapper">
+        <div id="add-book" class="container-box">
+            <h2>Add new book</h2>
+            <input type="text" id="add-book-title" placeholder="Enter Title...">
+            <input type="text" id="add-book-author" placeholder="Enter Author...">
+            <textarea id="add-book-description" placeholder="Enter Description..."></textarea>
+            <button onclick="addBook()">Add book</button>
+        </div>
+        <div id="books" class="container-box">
+            <span id="refresh" onclick="getBooksFromDatabase()">&#x21bb;</span>
+            <h2>Books</h2>
+            <ul id="books-list">
+            </ul>
+        </div>
+    </div>
+
+    <script src="library.js"></script>
+</body>
+</html>

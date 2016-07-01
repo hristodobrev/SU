@@ -1,0 +1,26 @@
+form {
+	display: inline-block;
+	padding: 10px;
+	background: #eee;
+	border-radius: 5px;
+}
+
+form span {
+	display: inline-block;
+	width: 100px;
+}
+
+form input[type=text],
+form select {
+	width: 150px;
+	margin-bottom: 10px;
+}
+
+form select {
+	width: 154px;
+}
+
+form input[type=submit] {
+	margin-left: 104px;
+	padding: 5px 15px;
+}

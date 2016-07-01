@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manipulate List</title>
+    <script src="../scripts/jquery-3.0.0.min.js"></script>
+    <style>
+        li>a {
+            display: none;
+        }
+
+        li:hover>a {
+            display: inline;
+        }
+    </style>
+</head>
+<body>
+    <h1>List of Items</h1>
+    <ul id="list">
+        <li>
+            <span>First</span>
+            <a href="#" onclick="deleteItem(this)">[Delete]</a>
+        </li>
+        <li>
+            <span>Second</span>
+            <a href="#" onclick="deleteItem(this)">[Delete]</a>
+        </li>
+    </ul>
+
+    <input type="text" id="item-field" placeholder="Add item to list...">
+    <button id="add-item-button">Add item</button>
+    <script>
+        $('#add-item-button').click(function () {
+            let text = $('#item-field').val();
+            let li = $('<li>');
+            let span = $('<span>').text(text);
+            let a = $('<a href="#" onclick="deleteItem(this)">').text('[Delete]');
+            li.append(span);
+            li.append(a);
+            $('#list').append(li);
+        });
+
+        $('#item-field').keypress(function (e) {
+            if(e.keyCode == 13) {
+                $('#add-item-button').click();
+                $('#item-field').val('');
+            }
+        });
+
+        function deleteItem(item) {
+            $(item).parent().remove();
+        }
+    </script>
+</body>
+</html>
