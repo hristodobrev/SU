@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #eee;
+    font-family: Arial;
+    color: #999;
+    font-size: 12pt;
+}
+
+a {
+    color: #777;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #666;
+}
+
+h1, h2, h3, h4 {
+    font-family: DengXian;
+    color: #222;
+}
+
+header {
+    line-height: 50px;
+    text-align: center;
+    width: 100%;
+    background: #fff;
+    border-bottom: 3px solid #d3d3d3;
+}
+
+header a {
+    text-decoration: none;
+    color: #777;
+}
+
+div#wrapper {
+    width: 1000px;
+    margin: 10px auto;
+}
+
+div#add-book {
+    width: 200px;
+    text-align: center;
+    float: left;
+}
+
+div#add-book h2 {
+    margin-bottom: 10px;
+}
+
+div#add-book input,
+div#add-book textarea {
+    width: 178px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #d3d3d3;
+    padding: 5px;
+}
+
+div#add-book textarea {
+    resize: none;
+    height: 150px;
+}
+
+div#add-book button {
+    border-radius: 5px;
+    background: #fff;
+    padding: 5px;
+    border: 1px solid #d3d3d3;
+}
+
+div#add-book button:hover {
+    background: #eee;
+    border: 1px solid #aaa;
+    cursor: pointer;
+}
+
+div#books {
+    width: 690px;
+    margin-left: 20px;
+    padding: 10px 0;
+    background: #eaeaea;
+}
+
+div#books h2 {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+div#books span#refresh {
+    font-size: 20px;
+    float: right;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    padding: 2px 5px;
+    margin-right: 10px;
+}
+
+div#books span#refresh:hover {
+    background: #eee;
+    border: 1px solid #aaa;
+    cursor: pointer;
+}
+
+div#books>ul {
+    list-style-type: none;
+}
+
+div#books>ul>li {
+    margin-bottom: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #d3d3d3;
+    background: #eee;
+}
+
+div#books ul li h3 {
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+div#books ul li span {
+    font-size: 14px;
+    padding-left: 20px;
+}
+
+div#books ul li p {
+    margin-top: 15px;
+    margin-left: 20px;
+    border: 1px solid #d3d3d3;
+    padding: 10px;
+    margin-right: 30px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.container-box {
+    background: #fff;
+    border-radius: 3px;
+    border: 1px solid #d3d3d3;
+    padding: 10px;
+    display: inline-block;
+}
+
+div#books ul li div.comments {
+    background: #fff;
+    margin: 20px;
+    margin-right: 30px;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+}
+
+div#books ul li div.comments h3 {
+    background: #fff;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+div#books ul li div.comments ul {
+    list-style-type: none;
+}
+
+div#books ul li div.comments ul li {
+    border-bottom: 1px solid #d3d3d3;
+    padding: 10px;
+    font-size: 0.8em;
+}
+
+div#books ul li div.comments div.add-comment {
+    padding: 10px;
+}
+
+div#books ul li div.comments div.add-comment input {
+    width: 80%;
+    border-radius: 5px 0 0 5px;
+    border: 1px solid #d3d3d3;
+    padding: 5px;
+}
+
+div#books ul li div.comments div.add-comment button {
+    width: 17%;
+    border-radius: 0 5px 5px 0;
+    border: 1px solid #d3d3d3;
+    border-left: none;
+    padding: 5px;
+    background: #fff;
+}
+
+div#books ul li div.comments div.add-comment button:hover {
+    background: #eee;
+    border: 1px solid #aaa;
+    cursor: pointer;
+}

@@ -44,7 +44,7 @@
             {
                 if (value < -180 || value > 180)
                 {
-                    throw new ArgumentOutOfRangeException("Latitude must be greather than -180 and smaller than 180.");
+                    throw new ArgumentOutOfRangeException("Longitude must be greather than -180 and smaller than 180.");
                 }
                 this.longitude = value;
             }

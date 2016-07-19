@@ -20,8 +20,6 @@ using System;
             }
 
             t.thread.Join();
-
-            
         }
 
         static void PrintSomething()

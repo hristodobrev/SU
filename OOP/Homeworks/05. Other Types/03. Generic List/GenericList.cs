@@ -1,10 +1,9 @@
 ﻿namespace _03.Generic_List
 {
     using System;
-    using System.Linq;
     using System.Text;
 
-    [VersionAttribute("2.11")] 
+    [VersionAttribute("2.11")]
     public class GenericList<T>
         where T : IComparable<T>
     {
@@ -98,12 +97,9 @@
 
         public bool Contains(T element)
         {
-            for (int i = 0; i < this.index; i++)
+            if (this.IndexOf(element) != -1)
             {
-                if (this.array[i].Equals(element))
-                {
-                    return true;
-                }
+                return true;
             }
 
             return false;
@@ -137,6 +133,19 @@
             return min;
         }
 
+        public override string ToString()
+        {
+            StringBuilder output = new StringBuilder();
+
+            output.Append(this.array[0]);
+            for (int i = 1; i < this.index; i++)
+            {
+                output.Append(", " + this.array[i]);
+            }
+
+            return output.ToString();
+        }
+
         private void CheckSize()
         {
             if (this.index == this.array.Length - 1)
@@ -157,19 +166,6 @@
             {
                 throw new IndexOutOfRangeException(string.Format("Index {0} is invalid.", index));
             }
-        }
-
-        public override string ToString()
-        {
-            StringBuilder output = new StringBuilder();
-
-            output.Append(this.array[0]);
-            for (int i = 1; i < this.index; i++)
-            {
-                output.Append(", " + this.array[i]);
-            }
-
-            return output.ToString();
         }
     }
 }

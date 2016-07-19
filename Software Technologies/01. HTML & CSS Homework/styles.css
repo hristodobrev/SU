@@ -1,0 +1,62 @@
+/* Colors Styles */
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+/* Rectangles Styles */
+div {
+	padding: 10px;
+}
+
+div.blueDotted {
+	border: 2px dotted blue;
+	border-radius: 10px;
+}
+
+div.redDashed {
+	border: 2px dashed red;
+	border-radius: 5px;
+}
+
+div.greenSolid {
+	border: 2px solid green;
+	border-radius: 2px;
+	text-align: center;
+	font-size: 34pt;
+}
+
+div.left {
+	background: #55e;
+	padding: 20px 30px;
+	border-radius: 5px;
+	float: left;
+	margin-right: 10px;
+}
+
+div.right {
+	background: #55e;
+	padding: 20px 30px;
+	border-radius: 5px;
+	float: right;
+	margin-left: 10px;
+}
+
+div.cont {
+	text-align: center;
+}
+
+div.no-floating {
+	background: #55e;
+	padding: 20px 30px;
+	border-radius: 5px;
+	display: inline-block;
+}
