@@ -17,17 +17,17 @@ namespace Entity_Framework
 
         public int ID { get; set; }
 
+        public int? AuthorID { get; set; }
+
         [Required]
         [StringLength(200)]
         public string Title { get; set; }
 
+        [Column(TypeName = "ntext")]
         [Required]
         public string Body { get; set; }
 
-        [Column(TypeName = "date")]
         public DateTime Date { get; set; }
-
-        public int? AuthorID { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Comment> Comments { get; set; }

@@ -30,6 +30,10 @@ namespace Entity_Framework
                 .Map(m => m.ToTable("Posts_Tags").MapLeftKey("PostID").MapRightKey("TagID"));
 
             modelBuilder.Entity<User>()
+                .Property(e => e.Username)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<User>()
                 .HasMany(e => e.Comments)
                 .WithOptional(e => e.User)
                 .HasForeignKey(e => e.AuthorID);

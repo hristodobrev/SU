@@ -21,11 +21,13 @@ namespace Entity_Framework
         [StringLength(50)]
         public string Username { get; set; }
 
-        [MaxLength(64)]
-        public byte[] PasswordHash { get; set; }
-
+        [Required]
         [StringLength(100)]
         public string FullName { get; set; }
+
+        [Required]
+        [MaxLength(64)]
+        public byte[] PasswordHash { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Comment> Comments { get; set; }
