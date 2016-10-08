@@ -157,3 +157,6 @@ $RECYCLE.BIN/
 
 # JavaScript Node Modules
 node_modules/
+
+# JetBrains .idea
+.idea/
