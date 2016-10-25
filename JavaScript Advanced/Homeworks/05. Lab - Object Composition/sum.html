@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<input type="text" id="num1" />
+<input type="text" id="num2" />
+<input type="text" id="result" readonly />
+<br>
+<button id="sumButton">
+    Sum</button>
+<button id="subtractButton">
+    Subtract</button>
+
+<script>
+    document.body.innerHTML = '<input type="text" id="num1" />' +
+            '<input type="text" id="num2" />' +
+            '<input type="text" id="result" readonly />';
+
+    let obj = getModel();
+
+    obj.init("#num1","#num2",'#result');
+    let num1 = $('#num1');
+    let num2 = $('#num2');
+    let res = $('#result');
+    num1.val(5);
+    num2.val(3);
+    obj.add();
+
+
+    function getModel() {
+        let model = {
+            init: (selector1, selector2, resultSelector) => {
+                    model.num1 = $(selector1);
+                    model.num2 = $(selector2);
+                    model.result = $(resultSelector);
+            },
+            add: () => {
+                model.action((a, b) => a + b);
+            },
+            subtract: () => {
+                model.action((a, b) => a - b);
+            },
+            action: (operation) => {
+                let val1 = Number(model.num1.val());
+                let val2 = Number(model.num2.val());
+                model.result.val(operation(val1, val2));
+            }
+        };
+
+        return model;
+    }
+
+    let model = getModel();
+</script>
+</body>
+</html>
