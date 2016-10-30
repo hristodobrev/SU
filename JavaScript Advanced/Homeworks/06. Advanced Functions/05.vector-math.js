@@ -20,7 +20,7 @@
     }
 
     return {add, multiply, length, dot, cross};
-})()
+})();
 
 console.log(vectorMath().add([1,3], [3,4]));
 console.log(vectorMath().multiply([1,3], 2));

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Traversal</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+            crossorigin="anonymous"></script>
+    <script src="07.dom-traversal.js"></script>
+    <style>
+        .highlight {
+            color: red;
+            background: #ff898b;
+            border: 1px solid red;
+        }
+    </style>
+</head>
+<body>
+
+<script>
+    document.body.innerHTML =
+            '<div id="wrapper"> \
+                <div id="header">LOGO</div> \
+                <div id="menu"><a href="/">Menu item 1</a><a href="/">Menu item 2</a><a href="/">Menu item 3</a></div> \
+                <div id="content" class="expected"> \
+                    <div class="expected article"> \
+                    <div class="title">Article title</div> \
+                        <div class="expected content"> \
+                            <p class="expected">Lorem ipsum dolor sit amet <span class="expected">libero sodales</span> sollicitudin. </p> \
+                            <p>Suspendisse tempus</p> \
+                        </div> \
+                    </div> \
+                    <div class="article"> \
+                        <div class="title">Article title</div> \
+                        <div class="content"><p>Aliquam luctus maximus lacus</p></div> \
+                    </div> \
+                </div> \
+                <div id="sidebar"> \
+                    <ul> \
+                        <li><a href="/">Navigation 1</a></li> \
+                        <li><a href="/">Navigation 2</a></li> \
+                        <li><a href="/">Navigation 3</a></li> \
+                    </ul> \
+                </div> \
+                <div id="footer">Copyright</div> \
+            </div>';
+
+    $(function () {
+        domTraversal('#content');
+    });
+</script>
+</body>
+</html>
