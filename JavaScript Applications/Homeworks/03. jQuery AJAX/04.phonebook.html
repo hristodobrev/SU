@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phonebook</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <style>
+        body {
+            background: #f1f1f1;
+            font-family: "MS Reference Sans Serif";
+        }
+
+        main {
+            width: 480px;
+            padding: 10px;
+            margin: 2em auto;
+            background: #fff;
+            border: 1px solid #d3d3d3;
+            border-radius: 3px;
+            text-align: center;
+        }
+
+        .loading {
+            text-align: center;
+            line-height: 200px;
+        }
+
+        .loading {
+            min-height: 200px;
+        }
+
+        #phonebook {
+            min-height: 184px;
+        }
+
+        .loading .circle {
+            width: 40px;
+            height: 40px;
+            line-height: normal;
+            display: inline-block;
+            border: 3px solid transparent;
+            border-top: 3px solid #d3d3d3;
+            border-bottom: 3px solid #d3d3d3;
+            border-radius: 100%;
+            animation-name: rotate;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+        }
+
+        .loading-wrapper, .loading-text {
+            line-height: normal;
+        }
+
+        .loading-wrapper {
+            display: inline-block;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        @keyframes rotate {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<body>
+<main>
+    <div id="wrapper">
+        <section class="phonebook">
+            <h1>Phonebook</h1>
+            <ul id="phonebook"></ul>
+            <div class="loading hidden">
+                <div class="loading-wrapper">
+                    <div class="circle"></div>
+                    <p class="loading-text">Loading...</p>
+                </div>
+            </div>
+            <button id="btnLoad">Load</button>
+        </section>
+
+        <section class="create-contact">
+            <h2>Create Contact</h2>
+            <p>
+                <input type="text" id="person" placeholder="Enter name"/>
+                <input type="text" id="phone" placeholder="Enter phone"/>
+                <button id="btnCreate">Create</button>
+            </p>
+        </section>
+    </div>
+</main>
+<script>
+    attachEvents();
+
+    function attachEvents() {
+        let baseUrl = 'https://phonebook-69dab.firebaseio.com/';
+        $('#btnLoad').on('click', loadContacts);
+        $('#btnCreate').on('click', createContact);
+
+        function createContact() {
+            $('#phonebook').addClass('hidden');
+            $('.loading').removeClass('hidden');
+
+            let req = {
+                method: 'POST',
+                readyStateChanged: function (xhr) {
+                    console.log(xhr.readyState);
+                },
+                url: baseUrl + '.json',
+                data: JSON.stringify({
+                    person: $('#person').val(),
+                    phone: $('#phone').val()
+                }),
+                success: function (data) {
+                    loadContacts();
+                },
+                error: function (error) {
+                    displayError();
+                }
+            };
+
+            $.ajax(req);
+
+            $('#person').val('');
+            $('#phone').val('');
+        }
+
+        function loadContacts() {
+            $('#phonebook').addClass('hidden');
+            $('.loading').removeClass('hidden');
+
+            let req = {
+                method: 'GET',
+                url: baseUrl + '.json',
+                success: function (data) {
+                    $('#phonebook').empty();
+                    let keys = Object.keys(data);
+                    for (let key of keys) {
+                        let li = $('<li>');
+                        li.text(data[key]['person'] + ': ' + data[key]['phone'] + ' ');
+
+                        li.append($("<button>Delete</button>")
+                                .click(function () {
+                                    deleteContact(key)
+                                }));
+
+                        $('#phonebook').append(li);
+                    }
+                    $('#phonebook').removeClass('hidden');
+                    $('.loading').addClass('hidden');
+                },
+                error: function(error){
+                    console.log(error);
+                    $('#phonebook').append($('<li>').text('Error'));
+                }
+            };
+
+            let xhr = $.ajax(req);
+
+            xhr.onreadystatechange = function () {
+                console.log(xhr.readyState);
+            };
+        }
+
+        function deleteContact(key) {
+            $('#phonebook').addClass('hidden');
+            $('.loading').removeClass('hidden');
+
+            let req = {
+                method: 'DELETE',
+                url: baseUrl + key + '.json',
+                success: function (data) {
+                    loadContacts();
+                },
+                error: function (error) {
+                    displayError();
+                }
+            };
+
+            $.ajax(req);
+        }
+
+        function displayError() {
+            $('#phonebook').append($('<li>').text('Error'));
+        }
+    }
+</script>
+</body>
+</html>
