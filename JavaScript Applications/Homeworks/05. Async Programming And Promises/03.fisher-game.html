@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Biggest Catch</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <!--<script src="catch.js"></script>-->
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        input {
+            display: block;
+        }
+
+        div {
+            border: 1px solid black;
+            padding: 5px;
+            display: inline-table;
+            width: 24%;
+        }
+
+        div#aside {
+            margin-top: 8px;
+            width: 15%;
+            border: 2px solid grey;
+        }
+
+        div#catches {
+            width: auto;
+        }
+
+        button {
+            display: inline-table;
+            margin: 5% 0 5% 5%;
+            width: 39%;
+        }
+
+        button.add {
+            width: 90%;
+        }
+
+        button.load {
+            width: 90%;
+            padding: 10px;
+        }
+
+        button.load {
+            vertical-align: top;
+        }
+
+        fieldset {
+            display: inline-table;
+            vertical-align: top;
+        }
+
+        fieldset#main {
+            width: 70%;
+        }
+    </style>
+</head>
+<body>
+<h1>Biggest Catches</h1>
+<fieldset id="main">
+    <legend>Catches</legend>
+    <div id="catches">
+        <div class="catch" data-id="<id-goes-here>">
+            <label>Angler</label>
+            <input type="text" class="angler" value="Paulo Amorim"/>
+            <label>Weight</label>
+            <input type="number" class="weight" value="636"/>
+            <label>Species</label>
+            <input type="text" class="species" value="Atlantic Blue Marlin"/>
+            <label>Location</label>
+            <input type="text" class="location" value="Vitória, Brazil"/>
+            <label>Bait</label>
+            <input type="text" class="bait" value="trolled pink"/>
+            <label>Capture Time</label>
+            <input type="number" class="captureTime" value="80"/>
+            <button class="update">Update</button>
+            <button class="delete">Delete</button>
+        </div>
+    </div>
+</fieldset>
+<div id="aside">
+    <button class="load">Load</button>
+    <fieldset id="addForm">
+        <legend>Add Catch</legend>
+        <label>Angler</label>
+        <input type="text" class="angler"/>
+        <label>Weight</label>
+        <input type="number" class="weight"/>
+        <label>Species</label>
+        <input type="text" class="species"/>
+        <label>Location</label>
+        <input type="text" class="location"/>
+        <label>Bait</label>
+        <input type="text" class="bait"/>
+        <label>Capture Time</label>
+        <input type="number" class="captureTime"/>
+        <button class="add">Add</button>
+    </fieldset>
+</div>
+<script>
+    attachEvents();
+
+    function attachEvents() {
+        let baseUrl = 'https://baas.kinvey.com/appdata/';
+        let appKey = 'kid_rkSL3HQfe';
+        let headers = {
+            'Authorization': 'Basic ' + btoa('guest:guest')
+        };
+
+        $('.load').click(loadData);
+        $('.add').click(addData);
+
+        function loadData() {
+            $.ajax({
+                method: 'GET',
+                url: baseUrl + appKey + '/biggestCatches',
+                headers: headers
+            })
+                    .then(function (data) {
+                        $('#catches').empty();
+                        for (let curCatch of data) {
+                            let html = `<div class="catch" data-id="${curCatch._id}">
+            <label>Angler</label>
+            <input type="text" class="angler" value="${curCatch.angler}"/>
+            <label>Weight</label>
+            <input type="number" class="weight" value="${curCatch.weight}"/>
+            <label>Species</label>
+            <input type="text" class="species" value="${curCatch.species}"/>
+            <label>Location</label>
+            <input type="text" class="location" value="${curCatch.location}"/>
+            <label>Bait</label>
+            <input type="text" class="bait" value="${curCatch.bait}"/>
+            <label>Capture Time</label>
+            <input type="number" class="captureTime" value="${curCatch.captureTime}"/>
+        </div>`;
+
+                            let updateBtn = $('<button class="update">Update</button>')
+                                    .click(function () {
+                                        updateCatch(curCatch._id);
+                                    });
+                            let deleteBtn = $('<button class="delete">Delete</button>')
+                                    .click(function () {
+                                        deleteCatch(curCatch._id);
+                                    });
+
+                            let div = $(html)
+                                    .append(updateBtn)
+                                    .append(deleteBtn);
+                            $('#catches').append(div);
+                        }
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    });
+        }
+
+        function deleteCatch(id) {
+            $.ajax({
+                method: 'DELETE',
+                url: baseUrl + appKey + '/biggestCatches/' + id,
+                headers: headers
+            })
+                    .then(function (data) {
+                        loadData();
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    });
+        }
+
+        function updateCatch(id) {
+            let curCatch = $(`*[data-id="${id}"]`);
+
+            let data = {
+                angler: curCatch.find('.angler').val(),
+                weight: curCatch.find('.weight').val(),
+                species: curCatch.find('.species').val(),
+                location: curCatch.find('.location').val(),
+                bait: curCatch.find('.bait').val(),
+                captureTime: curCatch.find('.captureTime').val()
+            };
+
+            $.ajax({
+                method: 'PUT',
+                url: baseUrl + appKey + '/biggestCatches/' + id,
+                headers: headers,
+                data: data
+            })
+                    .then(function (data) {
+                        loadData();
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    });
+        }
+
+        function addData() {
+            let data = {
+                angler: $('#addForm > .angler').val(),
+                weight: $('#addForm > .weight').val(),
+                species: $('#addForm > .species').val(),
+                location: $('#addForm > .location').val(),
+                bait: $('#addForm > .bait').val(),
+                captureTime: $('#addForm > .captureTime').val()
+            };
+
+            $.ajax({
+                method: 'POST',
+                url: baseUrl + appKey + '/biggestCatches',
+                headers: headers,
+                data: data
+            })
+                    .then(function (data) {
+                        loadData();
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    });
+        }
+    }
+</script>
+</body>
+</html>
