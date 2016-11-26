@@ -18,6 +18,11 @@ build/
 # Enable "build/" folder in the NuGet Packages folder since NuGet packages use it for MSBuild targets
 !packages/*/build/
 
+# Archives
+*.rar
+*.zip
+*.7z
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
@@ -160,8 +165,3 @@ node_modules/
 
 # JetBrains .idea
 .idea/
-
-# Archives
-*.rar
-*.zip
-*.7z
