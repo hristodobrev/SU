@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countries And Towns</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            text-align: center;
+            font-size: 20px;
+            font-family: Arial;
+        }
+
+        section {
+            display: inline-block;
+            width: 40%;
+        }
+
+        h1 {
+            padding: 0.3em;
+            border: 1px solid #a1a1a1;
+            border-bottom: none;
+        }
+
+        select {
+            width: 100%;
+            min-height: 320px;
+            overflow: auto;
+        }
+
+        select:focus {
+            outline: unset;
+        }
+
+        option {
+            padding: 1em;
+            font-size: 1.5em;
+        }
+
+        div {
+            border: 1px solid #a1a1a1;
+            border-top: none;
+            padding: 1em;
+        }
+
+        input {
+            padding: 0.5em;
+            margin-left: 1em;
+            width: 60%;
+        }
+
+        button {
+            background: white;
+            border: 1px solid #a1a1a1;
+            padding: 0.55em;
+        }
+
+        #loading {
+            width: 100%;
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+<sction id="loading">
+    <p>Loading...</p>
+</sction>
+<section>
+    <h1>Countries</h1>
+    <select name="countries" id="countries" size="5"></select>
+    <div>
+        <p>Edit Country<input type="text" id="edit-country">
+            <button id="editCountry">Edit</button>
+        </p>
+    </div>
+    <div>
+        <p>Add Country<input type="text" id="add-country">
+            <button id="addCountry">Add</button>
+        </p>
+    </div>
+    <div>
+        <button id="delCountry">Delete Country</button>
+    </div>
+</section>
+<section>
+    <h1>Towns</h1>
+    <select name="towns" id="towns" size="5"></select>
+    <div>
+        <p>Edit Town<input type="text" id="edit-town">
+            <button id="editTown">Edit</button>
+        </p>
+    </div>
+    <div>
+        <p>Add Town<input type="text" id="add-town">
+            <button id="addTown">Add</button>
+        </p>
+    </div>
+    <div>
+        <button id="delTown">Delete Town</button>
+    </div>
+</section>
+
+<script src="02.countries-and-towns.js"></script>
+<script>
+    attachEvents();
+</script>
+</body>
+</html>

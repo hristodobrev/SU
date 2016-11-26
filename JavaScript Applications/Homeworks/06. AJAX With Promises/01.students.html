@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shit</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <style>
+        body {
+            font-size: 10px;
+        }
+
+        .error {
+            color: white;
+            background: red;
+            border: 1px solid red;
+            border-radius: 5px;
+            font-size: 20px;
+            padding: 0.5em;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .error:hover {
+            color: red;
+            background: white;
+            border: 1px solid red;
+            transition: background 0.2s ease;
+        }
+
+        #results {
+            background-color: #FFFFFF;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        #results tr {
+            background-color: #AAAAAA;
+            padding: 0.5em;
+            font-size: 1.5em;
+        }
+
+        #results tr:nth-child(odd) {
+            background-color: #808080;
+        }
+
+        #results tr:first-child {
+            background-color: #000000;
+            color: #FFFFFF;
+            font-weight: bold;
+            font-size: 2em;
+        }
+
+        #results tr th {
+            padding: 0.5em;
+        }
+
+        #results tr td {
+            padding: 0.5em;
+            transition: font-size 0.2s;
+        }
+
+        #results tr:not(:first-child):not(:nth-child(2)):not(:nth-child(3)):hover {
+            background-color: #F0F8FF;
+            color: #000000;
+            font-size: 2.25em;
+        }
+
+    </style>
+</head>
+<body>
+<table id="results">
+    <tr>
+        <th>ID</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Faculty Number</th>
+        <th>Grade</th>
+    </tr>
+    <tr>
+        <td><input type="number" id="id" placeholder="Enter ID"></td>
+        <td><input type="text" id="first-name" placeholder="Enter First Name"></td>
+        <td><input type="text" id="last-name" placeholder="Enter Last Name"></td>
+        <td><input type="text" id="f-num" placeholder="Enter Fac. Num"></td>
+        <td><input type="number" id="grade" placeholder="Enter Grade"></td>
+    </tr>
+    <tr>
+        <td colspan="5"><input type="button" value="Add Student" id="btnAdd"></td>
+    </tr>
+</table>
+<script src="01.students.js"></script>
+<script>
+    attachEvents();
+</script>
+</body>
+</html>
