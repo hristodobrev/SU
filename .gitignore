@@ -160,3 +160,8 @@ node_modules/
 
 # JetBrains .idea
 .idea/
+
+# Archives
+*.rar
+*.zip
+*.7z
