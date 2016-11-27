@@ -44,6 +44,7 @@ function startApp() {
             $('#linkListAds').show();
             $('#linkCreateAd').show();
             $('#linkLogout').show();
+            $('#loggedInUser').show();
         } else {
             $('#linkHome').show();
             $('#linkLogin').show();
@@ -51,6 +52,7 @@ function startApp() {
             $('#linkListAds').hide();
             $('#linkCreateAd').hide();
             $('#linkLogout').hide();
+            $('#loggedInUser').hide();
         }
     }
 
@@ -79,8 +81,11 @@ function startApp() {
 
     function showCreateAdView() {
         showView('viewCreateAd');
-        $('#loggedInUser').text('');
         $('#formCreateAd').trigger('reset');
+    }
+
+    function showEditAdView() {
+        showView('viewEditAd');
     }
 
     function loginUser() {
@@ -174,22 +179,34 @@ function startApp() {
 
                 for (let ad of ads) {
                     let adHtml = $(`<tr>
-                    <td>${ad.title}</td>
+                    <td>${ad.title}<br>
+                    <img src="${ad.img}" alt="Ad Image" width="200">
+                    </td>
                     <td>${ad.publisher}</td>
                     <td>${ad.description}</td>
                     <td>${ad.price}</td>
                     <td>${ad.datePublished}</td>
                 </tr>`);
 
-                    let delLink = $('<a href="#">[Delete]</a>').click(function () {
-                        deleteAd(ad._id);
-                    });
-                    let editLink = $('<a href="#">[Edit]</a>').click(function () {
-                        editAd(ad._id);
-                    });
+                    let actionsTd = $('<td>');
 
-                    adHtml.append($('<td>').append(delLink).append(editLink));
+                    let viewLink = $('<a href="#">[View]</a>').click(function () {
+                        detailsAd(ad);
+                    });
+                    actionsTd.append(viewLink);
 
+                    if (ad._acl.creator == sessionStorage.getItem('userId')) {
+                        let delLink = $('<a href="#">[Delete]</a>').click(function () {
+                            deleteAd(ad._id);
+                        });
+                        let editLink = $('<a href="#">[Edit]</a>').click(function () {
+                            loadAdForEdit(ad);
+                        });
+
+                        actionsTd.append(delLink).append(editLink);
+                    }
+
+                    adHtml.append(actionsTd);
                     table.append(adHtml);
                 }
 
@@ -206,7 +223,8 @@ function startApp() {
             description: $('#formCreateAd textarea[name=description]').val(),
             publisher: sessionStorage.getItem('username'),
             datePublished: $('#formCreateAd input[name=datePublished]').val(),
-            price: $('#formCreateAd input[name=price]').val()
+            price: $('#formCreateAd input[name=price]').val(),
+            img: $('#formCreateAd input[name=img]').val()
         };
 
         $.ajax({
@@ -225,7 +243,41 @@ function startApp() {
     }
 
     function editAd() {
+        let id = $('#formEditAd input[name=id]').val();
 
+        let data = {
+            title: $('#formEditAd input[name=title]').val(),
+            description: $('#formEditAd textarea[name=description]').val(),
+            publisher: sessionStorage.getItem('username'),
+            datePublished: $('#formEditAd input[name=datePublished]').val(),
+            price: $('#formEditAd input[name=price]').val(),
+            img: $('#formEditAd input[name=img]').val()
+        };
+
+        $.ajax({
+            method: 'PUT',
+            url: kinveyBaseUrl + 'appdata/' + kinveyAppKey + '/ads/' + id,
+            headers: getKinveyUserAuthHeaders(),
+            data: data,
+            success: editAdSuccess,
+            error: handleAjaxError
+        });
+
+        function editAdSuccess(adData) {
+            listAds();
+            showInfo('Ad edited successful')
+        }
+    }
+
+    function loadAdForEdit(ad) {
+        $('#formEditAd input[name=id]').val(ad._id);
+        $('#formEditAd input[name=publisher]').val(ad.publisher);
+        $('#formEditAd input[name=title]').val(ad.title);
+        $('#formEditAd textarea[name=description]').val(ad.description);
+        $('#formEditAd input[name=datePublished]').val(ad.datePublished);
+        $('#formEditAd input[name=price]').val(ad.price);
+        $('#formEditAd input[name=img]').val(ad.img);
+        showEditAdView();
     }
 
     function deleteAd(id) {
@@ -243,6 +295,20 @@ function startApp() {
         }
     }
 
+    function detailsAd(ad) {
+        let adHtml = $(`<h1>${ad.title}</h1><br>
+        <img src="${ad.img}" alt="Ad Image" width="400">
+        <p><strong>Price:</strong> <span>${ad.price}</span></p><br>
+        <p><strong>Description:</strong></p>
+        <p>${ad.description}</p><br>
+        <p><strong>Publisher:</strong> <span>${ad.publisher}</span></p><br>
+        <p><strong>Date Published:</strong> ${ad.datePublished}</p>`);
+
+        $('#viewDetailsAd').empty();
+        $('#viewDetailsAd').append(adHtml);
+        showView('viewDetailsAd');
+    }
+
     function getKinveyUserAuthHeaders() {
         return {
             'Authorization': 'Kinvey ' + sessionStorage.getItem('authToken')
@@ -257,6 +323,9 @@ function startApp() {
     function showInfo(msg) {
         $('#infoBox').text(msg);
         $('#infoBox').fadeIn();
+        setTimeout(function () {
+            $('#infoBox').fadeOut();
+        }, 2000);
     }
 
     function handleAjaxError(error) {
