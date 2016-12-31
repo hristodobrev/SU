@@ -8,4 +8,6 @@ http.createServer((req, res) => {
         let body = fs.readFileSync('./index.html');
         
     }
-}).listen(port)
+}).listen(port);
+
+console.log('Listening on localhost:' + port);

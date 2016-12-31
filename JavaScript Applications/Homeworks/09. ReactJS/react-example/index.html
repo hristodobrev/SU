@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SPA Application</title>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+
+	<div id="app">
+
+		<!-- Navigation -->
+		<nav class="navbar navbar-default">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">SPA</a>
+				</div>
+				<div class="navbar-collapse collapse">
+					<ul class="nav navbar-nav" id="main-menu"></ul>
+					<ul class="nav navbar-nav navbar-right" id="greetings"></ul>
+				</div><!--/.nav-collapse -->
+			</div>
+		</nav>
+
+		<section id="boxInfo" class="application-message label label-info"></section>
+		<section id="boxSuccess" class="application-message label label-success"></section>
+		<section id="boxError" class="application-message label label-danger"></section>
+		<!-- /Navigation -->
+
+		<!-- Main -->
+		<main id="main"></main>
+		<!-- /Main -->
+
+		<!-- Footer -->
+		<footer class="footer">
+			<div class="container">
+				<p class="text-muted">(c) Single Page Application Framework 2016</p>
+			</div>
+		</footer>
+		<!-- /Footer -->
+	</div>
+
+	<!-- Css -->
+	<link rel="stylesheet" href="css/main.css">
+	<!-- /Css -->
+
+	<!-- External Library -->
+	<script type="text/javascript" src='lib/history.adapter.jquery.js'></script>
+	<!-- /External Library -->
+
+	<!-- Views -->
+	<script type="text/javascript" src='view/HomePageView.js'></script>
+	<script type="text/javascript" src='view/LoginView.js'></script>
+	<script type="text/javascript" src='view/RegisterView.js'></script>
+	<script type="text/javascript" src='view/AdView.js'></script>
+	<script type="text/javascript" src='view/AdSingleView.js'></script>
+	<!-- Views -->
+
+
+	<!-- Controllers -->
+	<script type="text/javascript" src='controller/HomeController.js'></script>
+	<script type="text/javascript" src='controller/LoginController.js'></script>
+	<script type="text/javascript" src='controller/RegisterController.js'></script>
+	<script type="text/javascript" src='controller/LogoutController.js'></script>
+	<script type="text/javascript" src='controller/AdController.js'></script>
+	<!-- Controllers -->
+
+
+	<!-- Services -->
+	<script type="text/javascript" src='service/Router.js'></script>
+	<script type="text/javascript" src='service/Requester.js'></script>
+	<script type="text/javascript" src='service/App.js'></script>
+	<!-- /Services -->
+
+
+	<!-- Application Entry Point -->
+	<script type="text/javascript" src='main.js'></script>
+	<!-- /Application Entry Point -->
+
+	<script type="text/javascript">
+		var app = new App({
+			menuSelector: '#main-menu',
+			greetingsSelector:'#greetings',
+			viewContainerSelector: '#main'
+		}, 100);
+		app.start();
+	</script>
+
+</body>
+</html>
