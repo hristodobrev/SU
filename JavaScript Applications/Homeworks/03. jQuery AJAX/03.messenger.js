@@ -2,11 +2,18 @@ attachEvents();
 
 function attachEvents() {
     $('#submit').on('click', sendMessage);
+    $('#content').on('keyup', contentKeyup);
     // $('#refresh').on('click', refresh);
 
     let baseUrl = 'https://messenger-b6a81.firebaseio.com/';
 
-    refresh();
+    getMessages();
+
+    function contentKeyup(e) {
+        if (e.keyCode == 13) {
+            sendMessage();
+        }
+    }
 
     function sendMessage() {
         let data = {
@@ -20,9 +27,8 @@ function attachEvents() {
             url: baseUrl + '.json',
             data: JSON.stringify(data),
             success: function (data) {
-                $('#author').val('');
                 $('#content').val('');
-                refresh();
+                getMessages();
             },
             error: function (error) {
                 $('#messages').text('Error');
@@ -31,7 +37,7 @@ function attachEvents() {
         $.ajax(req);
     }
 
-    function refresh() {
+    function getMessages() {
         let req = {
             method: 'GET',
             url: baseUrl + '.json',
@@ -43,9 +49,18 @@ function attachEvents() {
 
                 let result = '';
                 for (let key of keys) {
-                    result += `${data[key].author}: ${data[key].content}\n`;
+                    var date = new Date(data[key].timestamp).toLocaleString();
+                    var li = $('<li>');
+                    if (data[key].author == $('#author').val()) {
+                        li.addClass('me');
+                    }
+
+                    li.html(`<strong>${data[key].author}</strong>: ${data[key].content} <span class="time">${date}</span>`);
+                    
+                    $('#messages').append(li);
                 }
-                $('#messages').text(result);
+                $('#messages').scrollTop($('#messages')[0].scrollHeight);
+                // $('#messages').text(result);
             },
             error: function (error) {
                 $('#messages').text('Error');
